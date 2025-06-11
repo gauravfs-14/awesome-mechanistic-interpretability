@@ -1,4 +1,4 @@
-# Awesome Mamba (S4 - Structured State Space Models)
+# Awesome Mechanistic Interpretability
 
 ![Awesome](https://awesome.re/badge.svg)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -14,12 +14,63 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-June 11, 2025 at 04:52:35 PM UTC
+June 11, 2025 at 05:07:49 PM UTC
 
 
 ## Theorem
 
-## Papers (0)
+## Papers (50)
+- [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
+- [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
+- [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
+- [MIB: A Mechanistic Interpretability Benchmark](https://arxiv.org/abs/2504.13151)
+- [Training Superior Sparse Autoencoders for Instruct Models](https://arxiv.org/abs/2506.07691)
+- [RomanLens: The Role Of Latent Romanization In Multilinguality In LLMs](https://arxiv.org/abs/2502.07424)
+- [Performance Gap in Entity Knowledge Extraction Across Modalities in Vision Language Models](https://arxiv.org/abs/2412.14133)
+- [A CRISP approach to QSP: XAI enabling fit-for-purpose models](https://arxiv.org/abs/2505.02750)
+- [Diversity of Transformer Layers: One Aspect of Parameter Scaling Laws](https://arxiv.org/abs/2505.24009)
+- [Tug-of-war between idiom's figurative and literal meanings in LLMs](https://arxiv.org/abs/2506.01723)
+- [TinySQL: A Progressive Text-to-SQL Dataset for Mechanistic Interpretability Research](https://arxiv.org/abs/2503.12730)
+- [Evaluating Neuron Explanations: A Unified Framework with Sanity Checks](https://arxiv.org/abs/2506.05774)
+- [A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models](https://arxiv.org/abs/2503.05613)
+- [Dissecting Bias in LLMs: A Mechanistic Interpretability Perspective](https://arxiv.org/abs/2506.05166)
+- [The Vector Grounding Problem](https://arxiv.org/abs/2304.01481)
+- [An analytic theory of creativity in convolutional diffusion models](https://arxiv.org/abs/2412.20292)
+- [Behavioural vs. Representational Systematicity in End-to-End Models: An Opinionated Survey](https://arxiv.org/abs/2506.04461)
+- [Visualizing and Controlling Cortical Responses Using Voxel-Weighted Activation Maximization](https://arxiv.org/abs/2506.04379)
+- [Is the end of Insight in Sight ?](https://arxiv.org/abs/2505.04627)
+- [Forecasting Seasonal Influenza Epidemics with Physics-Informed Neural Networks](https://arxiv.org/abs/2506.03897)
+- [Time Course MechInterp: Analyzing the Evolution of Components and Knowledge in Large Language Models](https://arxiv.org/abs/2506.03434)
+- [Tracking the Feature Dynamics in LLM Training: A Mechanistic Study](https://arxiv.org/abs/2412.17626)
+- [Prisma: An Open Source Toolkit for Mechanistic Interpretability in Vision and Video](https://arxiv.org/abs/2504.19475)
+- [Interpreting Large Text-to-Image Diffusion Models with Dictionary Learning](https://arxiv.org/abs/2505.24360)
+- [Do Large Language Models (Really) Need Statistical Foundations?](https://arxiv.org/abs/2505.19145)
+- [Identifying interactions across brain areas while accounting for individual-neuron dynamics with a Transformer-based variational autoencoder](https://arxiv.org/abs/2506.02263)
+- [SafeSteer: Interpretable Safety Steering with Refusal-Evasion in LLMs](https://arxiv.org/abs/2506.04250)
+- [Anchored Answers: Unravelling Positional Bias in GPT-2's Multiple-Choice Questions](https://arxiv.org/abs/2405.03205)
+- [: Interpreting and leveraging semantic information in diffusion models](https://arxiv.org/abs/2411.16725)
+- [Circuit Stability Characterizes Language Model Generalization](https://arxiv.org/abs/2505.24731)
+- [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs](https://arxiv.org/abs/2505.22630)
+- [Planning in a recurrent neural network that plays Sokoban](https://arxiv.org/abs/2407.15421)
+- [Towards Unified Attribution in Explainable AI, Data-Centric AI, and Mechanistic Interpretability](https://arxiv.org/abs/2501.18887)
+- [BioReason: Incentivizing Multimodal Biological Reasoning within a DNA-LLM Model](https://arxiv.org/abs/2505.23579)
+- [Enhancing Automated Interpretability with Output-Centric Feature Descriptions](https://arxiv.org/abs/2501.08319)
+- [Measuring and Controlling Solution Degeneracy across Task-Trained Recurrent Neural Networks](https://arxiv.org/abs/2410.03972)
+- [Sparsification and Reconstruction from the Perspective of Representation Geometry](https://arxiv.org/abs/2505.22506)
+- [Mitigating Overthinking in Large Reasoning Models via Manifold Steering](https://arxiv.org/abs/2505.22411)
+- [Understanding Synthetic Context Extension via Retrieval Heads](https://arxiv.org/abs/2410.22316)
+- [In-Context Linear Regression Demystified: Training Dynamics and Mechanistic Interpretability of Multi-Head Softmax Attention](https://arxiv.org/abs/2503.12734)
+- [MARS-Bench: A Multi-turn Athletic Real-world Scenario Benchmark for Dialogue Evaluation](https://arxiv.org/abs/2505.23810)
+- [The Hidden Dimensions of LLM Alignment: A Multi-Dimensional Analysis of Orthogonal Safety Directions](https://arxiv.org/abs/2502.09674)
+- [Position: Mechanistic Interpretability Should Prioritize Feature Consistency in SAEs](https://arxiv.org/abs/2505.20254)
+- [From What to How: Attributing CLIP's Latent Components Reveals Unexpected Semantic Reliance](https://arxiv.org/abs/2505.20229)
+- [Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks](https://arxiv.org/abs/2505.20132)
+- [MoRE-Brain: Routed Mixture of Experts for Interpretable and Generalizable Cross-Subject fMRI Visual Decoding](https://arxiv.org/abs/2505.15946)
+- [The Birth of Knowledge: Emergent Features across Time, Space, and Scale in Large Language Models](https://arxiv.org/abs/2505.19440)
+- [DB-KSVD: Scalable Alternating Optimization for Disentangling High-Dimensional Embedding Spaces](https://arxiv.org/abs/2505.18441)
+- [Multi-Scale Probabilistic Generation Theory: A Hierarchical Framework for Interpreting Large Language Models](https://arxiv.org/abs/2505.18244)
+- [The Origins of Representation Manifolds in Large Language Models](https://arxiv.org/abs/2505.18235)
+
 
 ## Library
 
