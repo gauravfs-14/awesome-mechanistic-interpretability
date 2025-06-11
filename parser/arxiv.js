@@ -18,7 +18,7 @@ import fs from "fs";
 
     // Navigate to the arXiv search page
     await page.goto(
-      "https://arxiv.org/search/?query=Structured+State+Space+Models+S4&searchtype=all&abstracts=show&order=-submitted_date",
+      "https://arxiv.org/search/?query=Mechanistic+Interpretability&searchtype=all&abstracts=show&order=-submitted_date",
       { waitUntil: "networkidle2" }
     );
 
