@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-June 23, 2025 at 01:17:37 AM UTC
+June 24, 2025 at 01:13:41 AM UTC
 
 
 ## Theorem
 
-## Papers (62)
+## Papers (68)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -82,6 +82,12 @@ June 23, 2025 at 01:17:37 AM UTC
 - [Taming Polysemanticity in LLMs: Provable Feature Recovery via Sparse Autoencoders](https://arxiv.org/abs/2506.14002)
 - [Interpretability and Generalization Bounds for Learning Spatial Physics](https://arxiv.org/abs/2506.15199)
 - [A Implies B: Circuit Analysis in LLMs for Propositional Logical Reasoning](https://arxiv.org/abs/2411.04105)
+- [Mechanistic Interpretability in the Presence of Architectural Obfuscation](https://arxiv.org/abs/2506.18053)
+- [Out of Control -- Why Alignment Needs Formal Control Theory (and an Alignment Control Stack)](https://arxiv.org/abs/2506.17846)
+- [Reasoning Circuits in Language Models: A Mechanistic Interpretation of Syllogistic Inference](https://arxiv.org/abs/2408.08590)
+- [Validating Mechanistic Interpretations: An Axiomatic Approach](https://arxiv.org/abs/2407.13594)
+- [Six Fallacies in Substituting Large Language Models for Human Participants](https://arxiv.org/abs/2402.04470)
+- [Mechanistic Interpretability of Diffusion Models: Circuit-Level Analysis and Causal Validation](https://arxiv.org/abs/2506.17237)
 
 
 ## Library
