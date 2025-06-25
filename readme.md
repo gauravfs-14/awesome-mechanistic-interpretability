@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-June 24, 2025 at 01:13:41 AM UTC
+June 25, 2025 at 01:14:10 AM UTC
 
 
 ## Theorem
 
-## Papers (68)
+## Papers (74)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -88,6 +88,12 @@ June 24, 2025 at 01:13:41 AM UTC
 - [Validating Mechanistic Interpretations: An Axiomatic Approach](https://arxiv.org/abs/2407.13594)
 - [Six Fallacies in Substituting Large Language Models for Human Participants](https://arxiv.org/abs/2402.04470)
 - [Mechanistic Interpretability of Diffusion Models: Circuit-Level Analysis and Causal Validation](https://arxiv.org/abs/2506.17237)
+- [From memories to maps: Mechanisms of in context reinforcement learning in transformers](https://arxiv.org/abs/2506.19686)
+- [Measuring and Guiding Monosemanticity](https://arxiv.org/abs/2506.19382)
+- [Emergent collective dynamics from motile photokinetic organisms](https://arxiv.org/abs/2506.19081)
+- [Mechanistic Interpretability Needs Philosophy](https://arxiv.org/abs/2506.18852)
+- [Interpreting Global Perturbation Robustness of Image Models using Axiomatic Spectral Importance Decomposition](https://arxiv.org/abs/2408.01139)
+- [Circuit Compositions: Exploring Modular Structures in Transformer-Based Language Models](https://arxiv.org/abs/2410.01434)
 
 
 ## Library
