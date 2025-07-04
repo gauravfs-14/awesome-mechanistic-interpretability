@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-July 3, 2025 at 01:13:46 AM UTC
+July 4, 2025 at 01:13:23 AM UTC
 
 
 ## Theorem
 
-## Papers (86)
+## Papers (89)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -106,6 +106,9 @@ July 3, 2025 at 01:13:46 AM UTC
 - [Prompting as Scientific Inquiry](https://arxiv.org/abs/2507.00163)
 - [Emerging AI Approaches for Cancer Spatial Omics](https://arxiv.org/abs/2506.23857)
 - [Learning Modular Exponentiation with Transformers](https://arxiv.org/abs/2506.23679)
+- [Constraint-Guided Symbolic Regression for Data-Efficient Kinetic Model Discovery](https://arxiv.org/abs/2507.02730)
+- [Transformers Don't Need LayerNorm at Inference Time: Scaling LayerNorm Removal to GPT-2 XL and the Implications for Mechanistic Interpretability](https://arxiv.org/abs/2507.02559)
+- [Circuit-tuning: A Mechanistic Approach for Identifying Parameter Redundancy and Fine-tuning Neural Networks](https://arxiv.org/abs/2502.06106)
 
 
 ## Library
