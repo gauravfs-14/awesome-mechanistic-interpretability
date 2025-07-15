@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-July 14, 2025 at 01:19:28 AM UTC
+July 15, 2025 at 01:19:35 AM UTC
 
 
 ## Theorem
 
-## Papers (97)
+## Papers (100)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -117,6 +117,9 @@ July 14, 2025 at 01:19:28 AM UTC
 - [A statistical approach to latent dynamic modeling with differential equations](https://arxiv.org/abs/2311.16286)
 - [The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?](https://arxiv.org/abs/2507.08802)
 - [Mechanistic Indicators of Understanding in Large Language Models](https://arxiv.org/abs/2507.08017)
+- [Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers](https://arxiv.org/abs/2507.09406)
+- [Towards Interpretable Drug-Drug Interaction Prediction: A Graph-Based Approach with Molecular and Network-Level Explanations](https://arxiv.org/abs/2507.09173)
+- [Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery](https://arxiv.org/abs/2507.08977)
 
 
 ## Library
