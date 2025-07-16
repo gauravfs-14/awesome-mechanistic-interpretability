@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-July 15, 2025 at 01:19:35 AM UTC
+July 16, 2025 at 01:17:13 AM UTC
 
 
 ## Theorem
 
-## Papers (100)
+## Papers (104)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -120,6 +120,10 @@ July 15, 2025 at 01:19:35 AM UTC
 - [Adversarial Activation Patching: A Framework for Detecting and Mitigating Emergent Deception in Safety-Aligned Transformers](https://arxiv.org/abs/2507.09406)
 - [Towards Interpretable Drug-Drug Interaction Prediction: A Graph-Based Approach with Molecular and Network-Level Explanations](https://arxiv.org/abs/2507.09173)
 - [Simulation as Supervision: Mechanistic Pretraining for Scientific Discovery](https://arxiv.org/abs/2507.08977)
+- [A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma](https://arxiv.org/abs/2507.10136)
+- [Propensity score weighting across counterfactual worlds: longitudinal effects under positivity violations](https://arxiv.org/abs/2507.10774)
+- [Mechanistic Interpretability of LoRA-Adapted Language Models for Nuclear Reactor Safety Applications](https://arxiv.org/abs/2507.09931)
+- [Comprehension Without Competence: Architectural Limits of LLMs in Symbolic Computation and Reasoning](https://arxiv.org/abs/2507.10624)
 
 
 ## Library
