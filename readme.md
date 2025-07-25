@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-July 24, 2025 at 01:17:59 AM UTC
+July 25, 2025 at 01:17:33 AM UTC
 
 
 ## Theorem
 
-## Papers (114)
+## Papers (116)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -134,6 +134,8 @@ July 24, 2025 at 01:17:59 AM UTC
 - [Understanding Matching Mechanisms in Cross-Encoders](https://arxiv.org/abs/2507.14604)
 - [Decoding Translation-Related Functional Sequences in 5'UTRs Using Interpretable Deep Learning Models](https://arxiv.org/abs/2507.16801)
 - [Probing Ranking LLMs: A Mechanistic Analysis for Information Retrieval](https://arxiv.org/abs/2410.18527)
+- [Deep Learning for Blood-Brain Barrier Permeability Prediction](https://arxiv.org/abs/2507.18557)
+- [Residual Koopman Model Predictive Control for Enhanced Vehicle Dynamics with Small On-Track Data Input](https://arxiv.org/abs/2507.18396)
 
 
 ## Library
