@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-August 12, 2025 at 01:12:46 AM UTC
+August 13, 2025 at 01:14:08 AM UTC
 
 
 ## Theorem
 
-## Papers (134)
+## Papers (139)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -154,6 +154,11 @@ August 12, 2025 at 01:12:46 AM UTC
 - [Discovery of Disease Relationships via Transcriptomic Signature Analysis Powered by Agentic AI](https://arxiv.org/abs/2508.04742)
 - [Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality](https://arxiv.org/abs/2503.24277)
 - [Surgical Knowledge Rewrite in Compact LLMs: An 'Unlearn-then-Learn' Strategy with (IA^3IA^3) for Localized Factual Modulation and Catastrophic Forgetting Mitigation](https://arxiv.org/abs/2508.07075)
+- [Activation Steering for Bias Mitigation: An Interpretable Approach to Safer LLMs](https://arxiv.org/abs/2508.09019)
+- [Entangled in Representations: Mechanistic Investigation of Cultural Biases in Large Language Models](https://arxiv.org/abs/2508.08879)
+- [BiasGym: Fantastic Biases and How to Find (and Remove) Them](https://arxiv.org/abs/2508.08855)
+- [From Transformer to Biology: A Hierarchical Model for Attention in Complex Problem-Solving](https://arxiv.org/abs/2406.14100)
+- [How Post-Training Reshapes LLMs: A Mechanistic View on Knowledge, Truthfulness, Refusal, and Confidence](https://arxiv.org/abs/2504.02904)
 
 
 ## Library
