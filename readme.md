@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-August 19, 2025 at 01:11:17 AM UTC
+August 20, 2025 at 01:09:19 AM UTC
 
 
 ## Theorem
 
-## Papers (144)
+## Papers (147)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -164,6 +164,9 @@ August 19, 2025 at 01:11:17 AM UTC
 - [eDIF: A European Deep Inference Fabric for Remote Interpretability of LLM](https://arxiv.org/abs/2508.10553)
 - [Maximum Entropy Models for Unimodal Time Series: Case Studies of Universe 25 and St. Matthew Island](https://arxiv.org/abs/2508.10518)
 - [Mantis: A Simulation-Grounded Foundation Model for Disease Forecasting](https://arxiv.org/abs/2508.12260)
+- [CALYPSO: Forecasting and Analyzing MRSA Infection Patterns with Community and Healthcare Transmission Dynamics](https://arxiv.org/abs/2508.13548)
+- [Counterfactual Probabilistic Diffusion with Expert Models](https://arxiv.org/abs/2508.13355)
+- [Modeling GRNs with a Probabilistic Categorical Framework](https://arxiv.org/abs/2508.13208)
 
 
 ## Library
