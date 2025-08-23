@@ -14,7 +14,7 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-August 22, 2025 at 01:09:34 AM UTC
+August 23, 2025 at 01:06:42 AM UTC
 
 
 ## Theorem
