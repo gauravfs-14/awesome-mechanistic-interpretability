@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-August 24, 2025 at 01:16:49 AM UTC
+August 25, 2025 at 01:11:54 AM UTC
 
 
 ## Theorem
 
-## Papers (148)
+## Papers (154)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -168,6 +168,12 @@ August 24, 2025 at 01:16:49 AM UTC
 - [Counterfactual Probabilistic Diffusion with Expert Models](https://arxiv.org/abs/2508.13355)
 - [Modeling GRNs with a Probabilistic Categorical Framework](https://arxiv.org/abs/2508.13208)
 - [Disentangling concept semantics via multilingual averaging in Sparse Autoencoders](https://arxiv.org/abs/2508.14275)
+- [LLMSymGuard: A Symbolic Safety Guardrail Framework Leveraging Interpretable Jailbreak Concepts](https://arxiv.org/abs/2508.16325)
+- [From Indirect Object Identification to Syllogisms: Exploring Binary Mechanisms in Transformer Circuits](https://arxiv.org/abs/2508.16109)
+- [Fidelity Isn't Accuracy: When Linearly Decodable Functions Fail to Match the Ground Truth](https://arxiv.org/abs/2506.12176)
+- [Beyond Transcription: Mechanistic Interpretability in ASR](https://arxiv.org/abs/2508.15882)
+- [Mechanistic Exploration of Backdoored Large Language Model Attention Patterns](https://arxiv.org/abs/2508.15847)
+- [KL-based self-distillation for large language models](https://arxiv.org/abs/2508.15807)
 
 
 ## Library
