@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-August 25, 2025 at 01:11:54 AM UTC
+August 26, 2025 at 01:10:16 AM UTC
 
 
 ## Theorem
 
-## Papers (154)
+## Papers (159)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -174,6 +174,11 @@ August 25, 2025 at 01:11:54 AM UTC
 - [Beyond Transcription: Mechanistic Interpretability in ASR](https://arxiv.org/abs/2508.15882)
 - [Mechanistic Exploration of Backdoored Large Language Model Attention Patterns](https://arxiv.org/abs/2508.15847)
 - [KL-based self-distillation for large language models](https://arxiv.org/abs/2508.15807)
+- [Adversarial Examples Are Not Bugs, They Are Superposition](https://arxiv.org/abs/2508.17456)
+- [LLM Assertiveness can be Mechanistically Decomposed into Emotional and Logical Components](https://arxiv.org/abs/2508.17182)
+- [Disentangling Polysemantic Neurons with a Null-Calibrated Polysemanticity Index and Causal Patch Interventions](https://arxiv.org/abs/2508.16950)
+- [Rethinking scale in network neuroscience: Contributions and opportunities at the nanoscale](https://arxiv.org/abs/2508.16760)
+- [Do VLMs Have Bad Eyes? Diagnosing Compositional Failures via Mechanistic Interpretability](https://arxiv.org/abs/2508.16652)
 
 
 ## Library
