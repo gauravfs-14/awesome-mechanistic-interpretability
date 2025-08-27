@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-August 26, 2025 at 01:10:16 AM UTC
+August 27, 2025 at 01:07:56 AM UTC
 
 
 ## Theorem
 
-## Papers (159)
+## Papers (162)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -179,6 +179,9 @@ August 26, 2025 at 01:10:16 AM UTC
 - [Disentangling Polysemantic Neurons with a Null-Calibrated Polysemanticity Index and Causal Patch Interventions](https://arxiv.org/abs/2508.16950)
 - [Rethinking scale in network neuroscience: Contributions and opportunities at the nanoscale](https://arxiv.org/abs/2508.16760)
 - [Do VLMs Have Bad Eyes? Diagnosing Compositional Failures via Mechanistic Interpretability](https://arxiv.org/abs/2508.16652)
+- [Biologically Disentangled Multi-Omic Modeling Reveals Mechanistic Insights into Pan-Cancer Immunotherapy Resistance](https://arxiv.org/abs/2508.18638)
+- [Tracing Positional Bias in Financial Decision-Making: Mechanistic Insights from Qwen2.5](https://arxiv.org/abs/2508.18427)
+- [Linear Power System Modeling and Analysis Across Wide Operating Ranges: A Hierarchical Neural State-Space Equation Approach](https://arxiv.org/abs/2508.17774)
 
 
 ## Library
