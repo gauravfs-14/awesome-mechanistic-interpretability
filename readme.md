@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 3, 2025 at 01:04:21 AM UTC
+September 4, 2025 at 01:04:05 AM UTC
 
 
 ## Theorem
 
-## Papers (166)
+## Papers (170)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -186,6 +186,10 @@ September 3, 2025 at 01:04:21 AM UTC
 - [RelP: Faithful and Efficient Circuit Discovery via Relevance Patching](https://arxiv.org/abs/2508.21258)
 - [Prompt the Unseen: Evaluating Visual-Language Alignment Beyond Supervision](https://arxiv.org/abs/2509.00700)
 - [Mechanistic interpretability for steering vision-language-action models](https://arxiv.org/abs/2509.00328)
+- [Can LLMs Lie? Investigation beyond Hallucination](https://arxiv.org/abs/2509.03518)
+- [Challenges in Understanding Modality Conflict in Vision-Language Models](https://arxiv.org/abs/2509.02805)
+- [Non-Linear Model-Based Sequential Decision-Making in Agriculture](https://arxiv.org/abs/2509.01924)
+- [Preserving Bilinear Weight Spectra with a Signed and Shrunk Quadratic Activation Function](https://arxiv.org/abs/2509.01874)
 
 
 ## Library
