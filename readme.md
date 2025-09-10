@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 9, 2025 at 01:06:43 AM UTC
+September 10, 2025 at 01:04:58 AM UTC
 
 
 ## Theorem
 
-## Papers (175)
+## Papers (180)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -195,6 +195,11 @@ September 9, 2025 at 01:06:43 AM UTC
 - [Personality as a Probe for LLM Evaluation: Method Trade-offs and Downstream Effects](https://arxiv.org/abs/2509.04794)
 - [Interpreting Transformer Architectures as Implicit Multinomial Regression](https://arxiv.org/abs/2509.04653)
 - [ProtSAE: Disentangling and Interpreting Protein Language Models via Semantically-Guided Sparse Autoencoders](https://arxiv.org/abs/2509.05309)
+- [Towards explainable decision support using hybrid neural models for logistic terminal automation](https://arxiv.org/abs/2509.07577)
+- [Measuring Uncertainty in Transformer Circuits with Effective Information Consistency](https://arxiv.org/abs/2509.07149)
+- [Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Hop Arithmetic Reasoning](https://arxiv.org/abs/2412.01113)
+- [Data-driven discovery of dynamical models in biology](https://arxiv.org/abs/2509.06735)
+- [Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](https://arxiv.org/abs/2509.06608)
 
 
 ## Library
