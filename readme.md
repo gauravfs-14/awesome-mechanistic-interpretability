@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 10, 2025 at 01:04:58 AM UTC
+September 11, 2025 at 01:06:29 AM UTC
 
 
 ## Theorem
 
-## Papers (180)
+## Papers (184)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -200,6 +200,10 @@ September 10, 2025 at 01:04:58 AM UTC
 - [Think-to-Talk or Talk-to-Think? When LLMs Come Up with an Answer in Multi-Hop Arithmetic Reasoning](https://arxiv.org/abs/2412.01113)
 - [Data-driven discovery of dynamical models in biology](https://arxiv.org/abs/2509.06735)
 - [Small Vectors, Big Effects: A Mechanistic Study of RL-Induced Reasoning via Steering Vectors](https://arxiv.org/abs/2509.06608)
+- [The Quest for the Right Mediator: Surveying Mechanistic Interpretability Through the Lens of Causal Mediation Analysis](https://arxiv.org/abs/2408.01416)
+- [Interpretability as Alignment: Making Internal Understanding a Design Principle](https://arxiv.org/abs/2509.08592)
+- [Behind the Scenes: Mechanistic Interpretability of LoRA-adapted Whisper for Speech Emotion Recognition](https://arxiv.org/abs/2509.08454)
+- [Decoding the Stability of Transition-Metal Alloys with Theory-infused Deep Learning](https://arxiv.org/abs/2506.03031)
 
 
 ## Library
