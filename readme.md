@@ -14,12 +14,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 16, 2025 at 01:05:00 AM UTC
+September 17, 2025 at 01:04:41 AM UTC
 
 
 ## Theorem
 
-## Papers (188)
+## Papers (191)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -208,6 +208,9 @@ September 16, 2025 at 01:05:00 AM UTC
 - [Beyond I'm Sorry, I Can't: Dissecting Large Language Model Refusal](https://arxiv.org/abs/2509.09708)
 - [The power of dynamic causality in observer-based design for soft sensor applications](https://arxiv.org/abs/2509.11336)
 - [Modelling Under-Reported Data: Pitfalls of Naïve Approaches and a New Statistical Framework for Epidemic Curve Reconstruction](https://arxiv.org/abs/2509.10668)
+- [The Anatomy of Alignment: Decomposing Preference Optimization by Steering Sparse Features](https://arxiv.org/abs/2509.12934)
+- [Towards Inclusive Toxic Content Moderation: Addressing Vulnerabilities to Adversarial Attacks in Toxicity Classifiers Tackling LLM-generated Content](https://arxiv.org/abs/2509.12672)
+- [Swarm Intelligence for Chemical Reaction Optimisation](https://arxiv.org/abs/2509.11798)
 
 
 ## Library
