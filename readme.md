@@ -216,12 +216,16 @@ September 20, 2025 at 01:03:21 AM UTC
 - [Unified Spatiotemporal Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](https://arxiv.org/abs/2509.13425)
 - [Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models](https://arxiv.org/abs/2505.16538)
 
+### Dedicated Publication Threads
+- [Anthropic’s Interpretability Research](https://transformer-circuits.pub)
+- [Distill: Circuits Thread](https://distill.pub/2020/circuits/)
 
 ## Library
 
 ## Tutorial
 
 ### Written Tutorials
+- [Mechanistic Interpretability for LLMs, explained](https://seantrott.substack.com/p/mechanistic-interpretability-for) by [The CounterFactual](https://seantrott.substack.com)
 
 ### Video Tutorials
 
