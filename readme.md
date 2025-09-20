@@ -11,6 +11,20 @@ A carefully curated collection of high-quality libraries, projects, tutorials, r
 
 To ensure that the community stays updated on the latest developments, our repository is automatically updated with recent mechanistic interpretability papers from arXiv. This ensures timely access to new techniques, discoveries, and frameworks that are shaping the future of model transparency and alignment.
 
+> [!NOTE]
+> 📢 **Announcement:** Our paper from AIT Lab is now available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552)!  
+> **Title:** *Bridging the Black Box: A Survey on Mechanistic Interpretability in AI*  
+> If you find this paper interesting, please consider citing our work. Thank you for your support!
+
+```bibtex
+@article{somvanshi2025bridging,
+  title={Bridging the Black Box: A Survey on Mechanistic Interpretability in AI},
+  author={Somvanshi, Shriyank and Islam, Md Monzurul and Rafe, Amir and Tusti, Anannya Ghosh and Chakraborty, Arka and Baitullah, Anika and Chowdhury, Tausif Islam and Alnawmasi, Nawaf and Dutta, Anandi and Das, Subasish},
+  journal={Available at SSRN 5345552},
+  year={2025}
+}
+```
+
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
