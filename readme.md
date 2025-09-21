@@ -28,7 +28,7 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 20, 2025 at 01:03:21 AM UTC
+September 21, 2025 at 01:11:54 AM UTC
 
 
 ## Theorem
@@ -229,6 +229,7 @@ September 20, 2025 at 01:03:21 AM UTC
 - [Learning Mechanistic Subtypes of Neurodegeneration with a Physics-Informed Variational Autoencoder Mixture Model](https://arxiv.org/abs/2509.15124)
 - [Unified Spatiotemporal Physics-Informed Learning (USPIL): A Framework for Modeling Complex Predator-Prey Dynamics](https://arxiv.org/abs/2509.13425)
 - [Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models](https://arxiv.org/abs/2505.16538)
+
 
 ### Dedicated Publication Threads
 - [Anthropic’s Interpretability Research](https://transformer-circuits.pub)
