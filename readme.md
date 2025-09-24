@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 23, 2025 at 01:05:00 AM UTC
+September 24, 2025 at 01:06:01 AM UTC
 
 
 ## Theorem
 
-## Papers (197)
+## Papers (205)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -231,6 +231,14 @@ September 23, 2025 at 01:05:00 AM UTC
 - [Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models](https://arxiv.org/abs/2505.16538)
 - [DeepMech: A Machine Learning Framework for Chemical Reaction Mechanism Prediction](https://arxiv.org/abs/2509.15872)
 - [Modeling Transformers as complex networks to analyze learning dynamics](https://arxiv.org/abs/2509.15269)
+- [Bayesian Calibration and Model Assessment of Cell Migration Dynamics with Surrogate Model Integration](https://arxiv.org/abs/2509.18998)
+- [Learning From Simulators: A Theory of Simulation-Grounded Learning](https://arxiv.org/abs/2509.18990)
+- [Beyond the Leaderboard: Understanding Performance Disparities in Large Language Models via Model Diffing](https://arxiv.org/abs/2509.18792)
+- [Mechanistic Interpretability with SAEs: Probing Religion, Violence, and Geography in Large Language Models](https://arxiv.org/abs/2509.17665)
+- [Tikhonov-Fenichel Reductions and their Application to a Novel Modelling Approach for Mutualism](https://arxiv.org/abs/2501.12069)
+- [A Machine Learning Framework for Pathway-Driven Therapeutic Target Discovery in Metabolic Disorders](https://arxiv.org/abs/2509.18140)
+- [From Parameters to Performance: A Data-Driven Study on LLM Structure and Development](https://arxiv.org/abs/2509.18136)
+- [Safe-SAIL: Towards a Fine-grained Safety Landscape of Large Language Models via Sparse Autoencoder Interpretation Framework](https://arxiv.org/abs/2509.18127)
 
 
 ### Dedicated Publication Threads
