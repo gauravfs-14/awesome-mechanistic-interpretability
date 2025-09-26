@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 25, 2025 at 01:06:21 AM UTC
+September 26, 2025 at 01:06:03 AM UTC
 
 
 ## Theorem
 
-## Papers (209)
+## Papers (215)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -243,6 +243,12 @@ September 25, 2025 at 01:06:21 AM UTC
 - [Interpreting ResNet-based CLIP via Neuron-Attention Decomposition](https://arxiv.org/abs/2509.19943)
 - [Integrating Mechanistic Modeling and Machine Learning to Study CD4+/CD8+ CAR-T Cell Dynamics with Tumor Antigen Regulation](https://arxiv.org/abs/2509.19536)
 - [Fine-Tuning is Subgraph Search: A New Lens on Learning Dynamics](https://arxiv.org/abs/2502.06106)
+- [Binary Autoencoder for Mechanistic Interpretability of Large Language Models](https://arxiv.org/abs/2509.20997)
+- [CLUE: Conflict-guided Localization for LLM Unlearning Framework](https://arxiv.org/abs/2509.20977)
+- [Rethinking Circuit Completeness in Language Models: AND, OR, and ADDER Gates](https://arxiv.org/abs/2505.10039)
+- [GALAX: Graph-Augmented Language Model for Explainable Reinforcement-Guided Subgraph Reasoning in Precision Medicine](https://arxiv.org/abs/2509.20935)
+- [Towards Atoms of Large Language Models](https://arxiv.org/abs/2509.20784)
+- [RAPTOR-GEN: RApid PosTeriOR GENerator for Bayesian Learning in Biomanufacturing](https://arxiv.org/abs/2509.20753)
 
 
 ### Dedicated Publication Threads
