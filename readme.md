@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 28, 2025 at 01:12:53 AM UTC
+September 29, 2025 at 01:08:06 AM UTC
 
 
 ## Theorem
 
-## Papers (215)
+## Papers (219)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -249,6 +249,10 @@ September 28, 2025 at 01:12:53 AM UTC
 - [GALAX: Graph-Augmented Language Model for Explainable Reinforcement-Guided Subgraph Reasoning in Precision Medicine](https://arxiv.org/abs/2509.20935)
 - [Towards Atoms of Large Language Models](https://arxiv.org/abs/2509.20784)
 - [RAPTOR-GEN: RApid PosTeriOR GENerator for Bayesian Learning in Biomanufacturing](https://arxiv.org/abs/2509.20753)
+- [Concept-SAE: Active Causal Probing of Visual Model Behavior](https://arxiv.org/abs/2509.22015)
+- [Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation](https://arxiv.org/abs/2505.16415)
+- [Backdoor Attribution: Elucidating and Controlling Backdoor in Language Models](https://arxiv.org/abs/2509.21761)
+- [Elucidating Mechanisms of Demographic Bias in LLMs for Healthcare](https://arxiv.org/abs/2502.13319)
 
 
 ### Dedicated Publication Threads
