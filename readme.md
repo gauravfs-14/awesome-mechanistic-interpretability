@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 29, 2025 at 01:08:06 AM UTC
+September 30, 2025 at 01:07:20 AM UTC
 
 
 ## Theorem
 
-## Papers (219)
+## Papers (226)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -253,6 +253,13 @@ September 29, 2025 at 01:08:06 AM UTC
 - [Attributing Response to Context: A Jensen-Shannon Divergence Driven Mechanistic Study of Context Attribution in Retrieval-Augmented Generation](https://arxiv.org/abs/2505.16415)
 - [Backdoor Attribution: Elucidating and Controlling Backdoor in Language Models](https://arxiv.org/abs/2509.21761)
 - [Elucidating Mechanisms of Demographic Bias in LLMs for Healthcare](https://arxiv.org/abs/2502.13319)
+- [Hedonic Neurons: A Mechanistic Mapping of Latent Coalitions in Transformer MLPs](https://arxiv.org/abs/2509.23684)
+- [LLM Interpretability with Identifiable Temporal-Instantaneous Representation](https://arxiv.org/abs/2509.23323)
+- [Mechanistic Fine-tuning for In-context Learning](https://arxiv.org/abs/2505.14233)
+- [Bayesian Inference for Sexual Contact Networks Using Longitudinal Survey Data](https://arxiv.org/abs/2509.22848)
+- [Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research](https://arxiv.org/abs/2509.22831)
+- [Thrust based on changes in angular momentum](https://arxiv.org/abs/2105.10775)
+- [Latent Concept Disentanglement in Transformer-based Language Models](https://arxiv.org/abs/2506.16975)
 
 
 ### Dedicated Publication Threads
