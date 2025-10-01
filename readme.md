@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-September 30, 2025 at 01:07:20 AM UTC
+October 1, 2025 at 01:14:10 AM UTC
 
 
 ## Theorem
 
-## Papers (226)
+## Papers (235)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -260,6 +260,15 @@ September 30, 2025 at 01:07:20 AM UTC
 - [Toward a Theory of Generalizability in LLM Mechanistic Interpretability Research](https://arxiv.org/abs/2509.22831)
 - [Thrust based on changes in angular momentum](https://arxiv.org/abs/2105.10775)
 - [Latent Concept Disentanglement in Transformer-based Language Models](https://arxiv.org/abs/2506.16975)
+- [ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack](https://arxiv.org/abs/2509.25843)
+- [Minimalist Explanation Generation and Circuit Discovery](https://arxiv.org/abs/2509.25686)
+- [Causal Interventions Reveal Shared Structure Across English Filler-Gap Constructions](https://arxiv.org/abs/2505.16002)
+- [Circuit-Aware Reward Training: A Mechanistic Framework for Longtail Robustness in RLHF](https://arxiv.org/abs/2509.24713)
+- [Excitonic Energy Transfer in Red Algal Photosystem I Reveals an Evolutionary Bridge between Cyanobacteria and Plants](https://arxiv.org/abs/2509.24271)
+- [Localizing Task Recognition and Task Learning in In-Context Learning via Attention Head Analysis](https://arxiv.org/abs/2509.24164)
+- [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://arxiv.org/abs/2509.23768)
+- [Measuring Sparse Autoencoder Feature Sensitivity](https://arxiv.org/abs/2509.23717)
+- [Cyclic Ablation: Testing Concept Localization against Functional Regeneration in AI](https://arxiv.org/abs/2509.25220)
 
 
 ### Dedicated Publication Threads
