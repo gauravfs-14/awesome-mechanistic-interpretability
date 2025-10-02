@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 1, 2025 at 01:14:10 AM UTC
+October 2, 2025 at 01:04:57 AM UTC
 
 
 ## Theorem
 
-## Papers (235)
+## Papers (240)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -269,6 +269,11 @@ October 1, 2025 at 01:14:10 AM UTC
 - [From What to Why: A Multi-Agent System for Evidence-based Chemical Reaction Condition Reasoning](https://arxiv.org/abs/2509.23768)
 - [Measuring Sparse Autoencoder Feature Sensitivity](https://arxiv.org/abs/2509.23717)
 - [Cyclic Ablation: Testing Concept Localization against Functional Regeneration in AI](https://arxiv.org/abs/2509.25220)
+- [Mechanistic Interpretability as Statistical Estimation: A Variance Analysis of EAP-IG](https://arxiv.org/abs/2510.00845)
+- [Beyond Semantics: Rediscovering Spatial Awareness in Vision-Language Models](https://arxiv.org/abs/2503.17349)
+- [Feature Identification via the Empirical NTK](https://arxiv.org/abs/2510.00468)
+- [Commutative algebra neural network reveals genetic origins of diseases](https://arxiv.org/abs/2509.26566)
+- [Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document](https://arxiv.org/abs/2509.26235)
 
 
 ### Dedicated Publication Threads
