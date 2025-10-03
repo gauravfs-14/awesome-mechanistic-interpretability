@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 2, 2025 at 01:04:57 AM UTC
+October 3, 2025 at 01:04:45 AM UTC
 
 
 ## Theorem
 
-## Papers (240)
+## Papers (246)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -274,6 +274,12 @@ October 2, 2025 at 01:04:57 AM UTC
 - [Feature Identification via the Empirical NTK](https://arxiv.org/abs/2510.00468)
 - [Commutative algebra neural network reveals genetic origins of diseases](https://arxiv.org/abs/2509.26566)
 - [Interpret, prune and distill Donut : towards lightweight VLMs for VQA on document](https://arxiv.org/abs/2509.26235)
+- [BioBlobs: Differentiable Graph Partitioning for Protein Representation Learning](https://arxiv.org/abs/2510.01632)
+- [When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models](https://arxiv.org/abs/2504.02010)
+- [Integrative modelling of biomolecular dynamics](https://arxiv.org/abs/2510.01108)
+- [Interpreting Language Models Through Concept Descriptions: A Survey](https://arxiv.org/abs/2510.01048)
+- [Neural Theorem Proving: Generating and Structuring Proofs for Formal Verification](https://arxiv.org/abs/2504.17017)
+- [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks](https://arxiv.org/abs/2510.01232)
 
 
 ### Dedicated Publication Threads
