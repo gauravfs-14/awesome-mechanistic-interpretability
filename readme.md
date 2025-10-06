@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 5, 2025 at 01:11:50 AM UTC
+October 6, 2025 at 01:06:50 AM UTC
 
 
 ## Theorem
 
-## Papers (246)
+## Papers (252)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -280,6 +280,12 @@ October 5, 2025 at 01:11:50 AM UTC
 - [Interpreting Language Models Through Concept Descriptions: A Survey](https://arxiv.org/abs/2510.01048)
 - [Neural Theorem Proving: Generating and Structuring Proofs for Formal Verification](https://arxiv.org/abs/2504.17017)
 - [Benchmark Profiling: Mechanistic Diagnosis of LLM Benchmarks](https://arxiv.org/abs/2510.01232)
+- [Understanding Addition and Subtraction in Transformers](https://arxiv.org/abs/2402.02619)
+- [Mechanistic Interpretability of Code Correctness in LLMs via Sparse Autoencoders](https://arxiv.org/abs/2510.02917)
+- [Learning Explicit Single-Cell Dynamics Using ODE Representations](https://arxiv.org/abs/2510.02903)
+- [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629)
+- [Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics](https://arxiv.org/abs/2510.02605)
+- [Deep learning for flash drought forecasting and interpretation](https://arxiv.org/abs/2510.02576)
 
 
 ### Dedicated Publication Threads
