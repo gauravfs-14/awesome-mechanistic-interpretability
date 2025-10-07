@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 6, 2025 at 01:06:50 AM UTC
+October 7, 2025 at 01:05:58 AM UTC
 
 
 ## Theorem
 
-## Papers (252)
+## Papers (259)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -286,6 +286,13 @@ October 6, 2025 at 01:06:50 AM UTC
 - [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629)
 - [Towards CONUS-Wide ML-Augmented Conceptually-Interpretable Modeling of Catchment-Scale Precipitation-Storage-Runoff Dynamics](https://arxiv.org/abs/2510.02605)
 - [Deep learning for flash drought forecasting and interpretation](https://arxiv.org/abs/2510.02576)
+- [Mechanistic Interpretability of Socio-Political Frames in Language Models](https://arxiv.org/abs/2510.03799)
+- [Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://arxiv.org/abs/2506.21551)
+- [The Argument is the Explanation: Structured Argumentation for Trust in Agents](https://arxiv.org/abs/2510.03442)
+- [Disentangling Recall and Reasoning in Transformer Models through Layer-wise Attention and Activation Analysis](https://arxiv.org/abs/2510.03366)
+- [Decomposing Attention To Find Context-Sensitive Neurons](https://arxiv.org/abs/2510.03315)
+- [SoC-DT: Standard-of-Care Aligned Digital Twins for Patient-Specific Tumor Dynamics](https://arxiv.org/abs/2510.03287)
+- [Discovering Transformer Circuits via a Hybrid Attribution and Pruning Framework](https://arxiv.org/abs/2510.03282)
 
 
 ### Dedicated Publication Threads
