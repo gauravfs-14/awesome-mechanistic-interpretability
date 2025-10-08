@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 7, 2025 at 01:05:58 AM UTC
+October 8, 2025 at 01:05:31 AM UTC
 
 
 ## Theorem
 
-## Papers (259)
+## Papers (266)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -293,6 +293,13 @@ October 7, 2025 at 01:05:58 AM UTC
 - [Decomposing Attention To Find Context-Sensitive Neurons](https://arxiv.org/abs/2510.03315)
 - [SoC-DT: Standard-of-Care Aligned Digital Twins for Patient-Specific Tumor Dynamics](https://arxiv.org/abs/2510.03287)
 - [Discovering Transformer Circuits via a Hybrid Attribution and Pruning Framework](https://arxiv.org/abs/2510.03282)
+- [Distributional Semantics Tracing: A Framework for Explaining Hallucinations in Large Language Models](https://arxiv.org/abs/2510.06107)
+- [Mechanistic-statistical inference of mosquito dynamics from mark-release-recapture data](https://arxiv.org/abs/2510.06080)
+- [Refusal Falls off a Cliff: How Safety Alignment Fails in Reasoning?](https://arxiv.org/abs/2510.06036)
+- [The Logical Implication Steering Method for Conditional Interventions on Transformer Generation](https://arxiv.org/abs/2502.03618)
+- [Illusion or Algorithm? Investigating Memorization, Emergence, and Symbolic Processing in In-Context Learning](https://arxiv.org/abs/2505.11004)
+- [Causal Abstractions, Categorically Unified](https://arxiv.org/abs/2510.05033)
+- [Visual Representations inside the Language Model](https://arxiv.org/abs/2510.04819)
 
 
 ### Dedicated Publication Threads
