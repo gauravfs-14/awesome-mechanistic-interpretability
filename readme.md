@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 14, 2025 at 01:06:02 AM UTC
+October 15, 2025 at 01:07:55 AM UTC
 
 
 ## Theorem
 
-## Papers (276)
+## Papers (281)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -310,6 +310,11 @@ October 14, 2025 at 01:06:02 AM UTC
 - [InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques](https://arxiv.org/abs/2407.14494)
 - [Egocentric Visual Navigation through Hippocampal Sequences](https://arxiv.org/abs/2510.09951)
 - [Causality \neq\neq Decodability, and Vice Versa: Lessons from Interpreting Counting ViTs](https://arxiv.org/abs/2510.09794)
+- [Impact of Oxygen on DNA Damage Distribution in 3D Genome and Its Correlation to Oxygen Enhancement Ratio under High LET Irradiation](https://arxiv.org/abs/2503.21837)
+- [Analysing Moral Bias in Finetuned LLMs through Mechanistic Interpretability](https://arxiv.org/abs/2510.12229)
+- [QLENS: Towards A Quantum Perspective of Language Transformers](https://arxiv.org/abs/2510.11963)
+- [A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models](https://arxiv.org/abs/2407.02646)
+- [Why Is Spatial Reasoning Hard for VLMs? An Attention Mechanism Perspective on Focus Areas](https://arxiv.org/abs/2503.01773)
 
 
 ### Dedicated Publication Threads
