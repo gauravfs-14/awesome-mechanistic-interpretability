@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 21, 2025 at 01:09:36 AM UTC
+October 22, 2025 at 01:11:03 AM UTC
 
 
 ## Theorem
 
-## Papers (293)
+## Papers (300)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -327,6 +327,13 @@ October 21, 2025 at 01:09:36 AM UTC
 - [Causal Time Series Modeling of Supraglacial Lake Evolution in Greenland under Distribution Shift](https://arxiv.org/abs/2510.15265)
 - [Game-Theoretic Discovery of Quantum Error-Correcting Codes Through Nash Equilibria](https://arxiv.org/abs/2510.15223)
 - [Intrinsic Self-Correction in LLMs: Towards Explainable Prompting via Mechanistic Interpretability](https://arxiv.org/abs/2505.11924)
+- [DePass: Unified Feature Attributing by Simple Decomposed Forward Pass](https://arxiv.org/abs/2510.18462)
+- [Extracting Rule-based Descriptions of Attention Features in Transformers](https://arxiv.org/abs/2510.18148)
+- [How role-play shapes relevance judgment in zero-shot LLM rankers](https://arxiv.org/abs/2510.17535)
+- [Layer Specialization Underlying Compositional Reasoning in Transformers](https://arxiv.org/abs/2510.17469)
+- [Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations](https://arxiv.org/abs/2510.17256)
+- [Fighter: Unveiling the Graph Convolutional Nature of Transformers in Time Series Modeling](https://arxiv.org/abs/2510.17106)
+- [Atomic Literary Styling: Mechanistic Manipulation of Prose Generation in Neural Language Models](https://arxiv.org/abs/2510.17909)
 
 
 ### Dedicated Publication Threads
