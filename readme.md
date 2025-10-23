@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 22, 2025 at 01:11:03 AM UTC
+October 23, 2025 at 01:08:55 AM UTC
 
 
 ## Theorem
 
-## Papers (300)
+## Papers (305)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -334,6 +334,11 @@ October 22, 2025 at 01:11:03 AM UTC
 - [Explainability of Large Language Models: Opportunities and Challenges toward Generating Trustworthy Explanations](https://arxiv.org/abs/2510.17256)
 - [Fighter: Unveiling the Graph Convolutional Nature of Transformers in Time Series Modeling](https://arxiv.org/abs/2510.17106)
 - [Atomic Literary Styling: Mechanistic Manipulation of Prose Generation in Neural Language Models](https://arxiv.org/abs/2510.17909)
+- [Base Models Know How to Reason, Thinking Models Learn When](https://arxiv.org/abs/2510.07364)
+- [I Spy With My Model's Eye: Visual Search as a Behavioural Test for MLLMs](https://arxiv.org/abs/2510.19678)
+- [A Class of Markovian Self-Reinforcing Processes with Power-Law Distributions](https://arxiv.org/abs/2510.19034)
+- [Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions](https://arxiv.org/abs/2510.18911)
+- [Foundation Models for Discovery and Exploration in Chemical Space](https://arxiv.org/abs/2510.18900)
 
 
 ### Dedicated Publication Threads
