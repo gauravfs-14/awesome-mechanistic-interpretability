@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 23, 2025 at 01:08:55 AM UTC
+October 24, 2025 at 01:05:00 AM UTC
 
 
 ## Theorem
 
-## Papers (305)
+## Papers (309)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -339,6 +339,10 @@ October 23, 2025 at 01:08:55 AM UTC
 - [A Class of Markovian Self-Reinforcing Processes with Power-Law Distributions](https://arxiv.org/abs/2510.19034)
 - [Prospects for Using Artificial Intelligence to Understand Intrinsic Kinetics of Heterogeneous Catalytic Reactions](https://arxiv.org/abs/2510.18911)
 - [Foundation Models for Discovery and Exploration in Chemical Space](https://arxiv.org/abs/2510.18900)
+- [Towards Understanding Safety Alignment: A Mechanistic Perspective from Safety Neurons](https://arxiv.org/abs/2406.14144)
+- [MolBridge: Atom-Level Joint Graph Refinement for Robust Drug-Drug Interaction Event Prediction](https://arxiv.org/abs/2510.20448)
+- [Stream: Scaling up Mechanistic Interpretability to Long Context in LLMs via Sparse Attention](https://arxiv.org/abs/2510.19875)
+- [Some Attention is All You Need for Retrieval](https://arxiv.org/abs/2510.19861)
 
 
 ### Dedicated Publication Threads
