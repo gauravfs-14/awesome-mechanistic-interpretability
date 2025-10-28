@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 27, 2025 at 01:14:41 AM UTC
+October 28, 2025 at 01:07:25 AM UTC
 
 
 ## Theorem
 
-## Papers (311)
+## Papers (314)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -345,6 +345,9 @@ October 27, 2025 at 01:14:41 AM UTC
 - [Some Attention is All You Need for Retrieval](https://arxiv.org/abs/2510.19861)
 - [Causal Head Gating: A Framework for Interpreting Roles of Attention Heads in Transformers](https://arxiv.org/abs/2505.13737)
 - [ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs](https://arxiv.org/abs/2505.17495)
+- [Mapping Faithful Reasoning in Language Models](https://arxiv.org/abs/2510.22362)
+- [Transformer brain encoders explain human high-level visual responses](https://arxiv.org/abs/2505.17329)
+- [Mechanistic Interpretability for Neural TSP Solvers](https://arxiv.org/abs/2510.21693)
 
 
 ### Dedicated Publication Threads
