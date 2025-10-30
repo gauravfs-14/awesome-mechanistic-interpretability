@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 29, 2025 at 01:12:42 AM UTC
+October 30, 2025 at 01:12:02 AM UTC
 
 
 ## Theorem
 
-## Papers (320)
+## Papers (324)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -354,6 +354,10 @@ October 29, 2025 at 01:12:42 AM UTC
 - [PAHQ: Accelerating Automated Circuit Discovery through Mixed-Precision Inference Optimization](https://arxiv.org/abs/2510.23264)
 - [Interpreting and Mitigating Unwanted Uncertainty in LLMs](https://arxiv.org/abs/2510.22866)
 - [Sparsity and Superposition in Mixture of Experts](https://arxiv.org/abs/2510.23671)
+- [Mechanistic Interpretability of RNNs emulating Hidden Markov Models](https://arxiv.org/abs/2510.25674)
+- [FaCT: Faithful Concept Traces for Explaining Neural Network Decisions](https://arxiv.org/abs/2510.25512)
+- [Emergence of Minimal Circuits for Indirect Object Identification in Attention-Only Transformers](https://arxiv.org/abs/2510.25013)
+- [Large Language Models Report Subjective Experience Under Self-Referential Processing](https://arxiv.org/abs/2510.24797)
 
 
 ### Dedicated Publication Threads
