@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-October 30, 2025 at 01:12:02 AM UTC
+October 31, 2025 at 01:10:04 AM UTC
 
 
 ## Theorem
 
-## Papers (324)
+## Papers (330)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -358,6 +358,12 @@ October 30, 2025 at 01:12:02 AM UTC
 - [FaCT: Faithful Concept Traces for Explaining Neural Network Decisions](https://arxiv.org/abs/2510.25512)
 - [Emergence of Minimal Circuits for Indirect Object Identification in Attention-Only Transformers](https://arxiv.org/abs/2510.25013)
 - [Large Language Models Report Subjective Experience Under Self-Referential Processing](https://arxiv.org/abs/2510.24797)
+- [RelP: Faithful and Efficient Circuit Discovery in Language Models via Relevance Patching](https://arxiv.org/abs/2508.21258)
+- [Chain-of-Thought Hijacking](https://arxiv.org/abs/2510.26418)
+- [In Defence of Post-hoc Explainability](https://arxiv.org/abs/2412.17883)
+- [MedSAE: Dissecting MedCLIP Representations with Sparse Autoencoders](https://arxiv.org/abs/2510.26411)
+- [BlackboxNLP-2025 MIB Shared Task: Improving Circuit Faithfulness via Better Edge Selection](https://arxiv.org/abs/2510.25786)
+- [StreetMath: Study of LLMs' Approximation Behaviors](https://arxiv.org/abs/2510.25776)
 
 
 ### Dedicated Publication Threads
