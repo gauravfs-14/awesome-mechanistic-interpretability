@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-November 4, 2025 at 01:10:34 AM UTC
+November 5, 2025 at 01:11:55 AM UTC
 
 
 ## Theorem
 
-## Papers (333)
+## Papers (337)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -367,6 +367,10 @@ November 4, 2025 at 01:10:34 AM UTC
 - [Modelling ion channels with a view towards identifiability](https://arxiv.org/abs/2510.26728)
 - [Atlas-Alignment: Making Interpretability Transferable Across Language Models](https://arxiv.org/abs/2510.27413)
 - [Pregnancy as a dynamical paradox: robustness, control and birth onset](https://arxiv.org/abs/2408.00956)
+- [Space as Time Through Neuron Position Learning](https://arxiv.org/abs/2511.01632)
+- [TRISKELION-1: Unified Descriptive-Predictive-Generative AI](https://arxiv.org/abs/2511.00711)
+- [Neural Transparency: Mechanistic Interpretability Interfaces for Anticipating Model Behaviors for Personalized AI](https://arxiv.org/abs/2511.00230)
+- [Automatically Finding Rule-Based Neurons in OthelloGPT](https://arxiv.org/abs/2511.00059)
 
 
 ### Dedicated Publication Threads
