@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-November 12, 2025 at 01:11:19 AM UTC
+November 13, 2025 at 01:11:41 AM UTC
 
 
 ## Theorem
 
-## Papers (342)
+## Papers (351)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -376,6 +376,15 @@ November 12, 2025 at 01:11:19 AM UTC
 - [LLM Probing with Contrastive Eigenproblems: Improving Understanding and Applicability of CCS](https://arxiv.org/abs/2511.02089)
 - [Addressing divergent representations from causal interventions on neural networks](https://arxiv.org/abs/2511.04638)
 - [APP: Accelerated Path Patching with Task-Specific Pruning](https://arxiv.org/abs/2511.05442)
+- [SOM Directions are Better than One: Multi-Directional Refusal Suppression in Language Models](https://arxiv.org/abs/2511.08379)
+- [Knowledge-Augmented Long-CoT Generation for Complex Biomolecular Reasoning](https://arxiv.org/abs/2511.08024)
+- [Causal Tracing of Object Representations in Large Vision Language Models: Mechanistic Interpretability and Hallucination Mitigation](https://arxiv.org/abs/2511.05923)
+- [The Trilemma of Truth in Large Language Models](https://arxiv.org/abs/2506.23921)
+- [SCALAR: Benchmarking SAE Interaction Sparsity in Toy LLMs](https://arxiv.org/abs/2511.07572)
+- [Automated Circuit Interpretation via Probe Prompting](https://arxiv.org/abs/2511.07002)
+- [Rank-1 LoRAs Encode Interpretable Reasoning Signals](https://arxiv.org/abs/2511.06739)
+- [Learning Biomolecular Motion: The Physics-Informed Machine Learning Paradigm](https://arxiv.org/abs/2511.06585)
+- [Visual Exploration of Feature Relationships in Sparse Autoencoders with Curated Concepts](https://arxiv.org/abs/2511.06048)
 
 
 ### Dedicated Publication Threads
