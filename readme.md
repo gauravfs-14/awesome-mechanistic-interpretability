@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-November 25, 2025 at 01:11:01 AM UTC
+November 26, 2025 at 01:12:12 AM UTC
 
 
 ## Theorem
 
-## Papers (365)
+## Papers (374)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -399,6 +399,15 @@ November 25, 2025 at 01:11:01 AM UTC
 - [nnterp: A Standardized Interface for Mechanistic Interpretability of Transformers](https://arxiv.org/abs/2511.14465)
 - [Judicial Sentencing Prediction Based on Hybrid Models and Two-Stage Learning Algorithms](https://arxiv.org/abs/2511.15374)
 - [Chromatographic Peak Shape from Stochastic Model: Analytic Time-Domain Expression in Terms of Physical Parameters and Conditions under which Heterogeneity Reduces Tailing](https://arxiv.org/abs/2511.15088)
+- [Beyond Protein Language Models: An Agentic LLM Framework for Mechanistic Enzyme Design](https://arxiv.org/abs/2511.19423)
+- [Unboxing the Black Box: Mechanistic Interpretability for Algorithmic Understanding of Neural Networks](https://arxiv.org/abs/2511.19265)
+- [Interpreting GFlowNets for Drug Discovery: Extracting Actionable Insights for Medicinal Chemistry](https://arxiv.org/abs/2511.19264)
+- [Pathway to Relevance: How Cross-Encoders Implement a Semantic Variant of BM25](https://arxiv.org/abs/2502.04645)
+- [Findings of the BlackboxNLP 2025 Shared Task: Localizing Circuits and Causal Variables in Language Models](https://arxiv.org/abs/2511.18409)
+- [Vector Arithmetic in Concept and Token Subspaces](https://arxiv.org/abs/2511.18162)
+- [The Horcrux: Mechanistically Interpretable Task Decomposition for Detecting and Mitigating Reward Hacking in Embodied AI Systems](https://arxiv.org/abs/2511.17869)
+- [Understanding Counting Mechanisms in Large Language and Vision-Language Models](https://arxiv.org/abs/2511.17699)
+- [BlockCert: Certified Blockwise Extraction of Transformer Mechanisms](https://arxiv.org/abs/2511.17645)
 
 
 ### Dedicated Publication Threads
