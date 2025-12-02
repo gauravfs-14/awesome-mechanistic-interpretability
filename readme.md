@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 1, 2025 at 01:24:23 AM UTC
+December 2, 2025 at 01:13:04 AM UTC
 
 
 ## Theorem
 
-## Papers (378)
+## Papers (382)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -412,6 +412,10 @@ December 1, 2025 at 01:24:23 AM UTC
 - [Approximate Bayesian Computation Made Easy: A Practical Guide to ABC-SMC for Dynamical Systems with \texttt{pymc}](https://arxiv.org/abs/2511.21587)
 - [Mechanistic Interpretability for Transformer-based Time Series Classification](https://arxiv.org/abs/2511.21514)
 - [Physics Steering: Causal Control of Cross-Domain Concepts in a Physics Foundation Model](https://arxiv.org/abs/2511.20798)
+- [Interpretability for Time Series Transformers using A Concept Bottleneck Framework](https://arxiv.org/abs/2410.06070)
+- [Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations](https://arxiv.org/abs/2511.22697)
+- [A race to belief: How Evidence Accumulation shapes trust in AI and Human informants](https://arxiv.org/abs/2511.22617)
+- [FoldSAE: Learning to Steer Protein Folding Through Sparse Representations](https://arxiv.org/abs/2511.22519)
 
 
 ### Dedicated Publication Threads
