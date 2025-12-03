@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 2, 2025 at 01:13:04 AM UTC
+December 3, 2025 at 01:13:39 AM UTC
 
 
 ## Theorem
 
-## Papers (382)
+## Papers (387)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -416,6 +416,11 @@ December 2, 2025 at 01:13:04 AM UTC
 - [Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations](https://arxiv.org/abs/2511.22697)
 - [A race to belief: How Evidence Accumulation shapes trust in AI and Human informants](https://arxiv.org/abs/2511.22617)
 - [FoldSAE: Learning to Steer Protein Folding Through Sparse Representations](https://arxiv.org/abs/2511.22519)
+- [Unsupervised decoding of encoded reasoning using language model interpretability](https://arxiv.org/abs/2512.01222)
+- [TrendGNN: Towards Understanding of Epidemics, Beliefs, and Behaviors](https://arxiv.org/abs/2512.00421)
+- [VCWorld: A Biological World Model for Virtual Cell Simulation](https://arxiv.org/abs/2512.00306)
+- [EXP-CAM: Explanation Generation and Circuit Discovery Using Classifier Activation Matching](https://arxiv.org/abs/2509.25686)
+- [HyperADRs: A Hierarchical Hypergraph Framework for Drug-Gene-ADR Prediction](https://arxiv.org/abs/2512.00137)
 
 
 ### Dedicated Publication Threads
