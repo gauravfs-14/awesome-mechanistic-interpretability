@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 4, 2025 at 01:13:30 AM UTC
+December 5, 2025 at 01:13:35 AM UTC
 
 
 ## Theorem
 
-## Papers (390)
+## Papers (393)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -424,6 +424,9 @@ December 4, 2025 at 01:13:30 AM UTC
 - [ProteinPNet: Prototypical Part Networks for Concept Learning in Spatial Proteomics](https://arxiv.org/abs/2512.02983)
 - [Translating Measures onto Mechanisms: The Cognitive Relevance of Higher-Order Information](https://arxiv.org/abs/2512.02671)
 - [Mechanisms of Symbol Processing for In-Context Learning in Transformer Networks](https://arxiv.org/abs/2410.17498)
+- [Beyond Top Activations: Efficient and Reliable Crowdsourced Evaluation of Automated Interpretability](https://arxiv.org/abs/2506.07985)
+- [Approximate Bayesian Inference on Mechanisms of Network Growth and Evolution](https://arxiv.org/abs/2512.03092)
+- [AtomDisc: An Atom-level Tokenizer that Boosts Molecular LLMs and Reveals Structure--Property Associations](https://arxiv.org/abs/2512.03080)
 
 
 ### Dedicated Publication Threads
