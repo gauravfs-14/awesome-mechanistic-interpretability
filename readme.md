@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 5, 2025 at 01:13:35 AM UTC
+December 6, 2025 at 01:10:06 AM UTC
 
 
 ## Theorem
 
-## Papers (393)
+## Papers (397)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -427,6 +427,10 @@ December 5, 2025 at 01:13:35 AM UTC
 - [Beyond Top Activations: Efficient and Reliable Crowdsourced Evaluation of Automated Interpretability](https://arxiv.org/abs/2506.07985)
 - [Approximate Bayesian Inference on Mechanisms of Network Growth and Evolution](https://arxiv.org/abs/2512.03092)
 - [AtomDisc: An Atom-level Tokenizer that Boosts Molecular LLMs and Reveals Structure--Property Associations](https://arxiv.org/abs/2512.03080)
+- [Path Channels and Plan Extension Kernels: a Mechanistic Description of Planning in a Sokoban RNN](https://arxiv.org/abs/2506.10138)
+- [Neural Policy Composition from Free Energy Minimization](https://arxiv.org/abs/2512.04745)
+- [Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective](https://arxiv.org/abs/2512.04691)
+- [Minuet: A Diffusion Autoencoder for Compact Semantic Compression of Multi-Band Galaxy Images](https://arxiv.org/abs/2512.04145)
 
 
 ### Dedicated Publication Threads
