@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 8, 2025 at 01:13:39 AM UTC
+December 9, 2025 at 01:13:15 AM UTC
 
 
 ## Theorem
 
-## Papers (397)
+## Papers (401)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -431,6 +431,10 @@ December 8, 2025 at 01:13:39 AM UTC
 - [Neural Policy Composition from Free Energy Minimization](https://arxiv.org/abs/2512.04745)
 - [Towards Ethical Multi-Agent Systems of Large Language Models: A Mechanistic Interpretability Perspective](https://arxiv.org/abs/2512.04691)
 - [Minuet: A Diffusion Autoencoder for Compact Semantic Compression of Multi-Band Galaxy Images](https://arxiv.org/abs/2512.04145)
+- [Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865)
+- [Mechanistic Interpretability of Antibody Language Models Using SAEs](https://arxiv.org/abs/2512.05794)
+- [Rethinking Sparse Autoencoders: Select-and-Project for Fairness and Control from Encoder Features Alone](https://arxiv.org/abs/2509.10809)
+- [On the Theoretical Foundation of Sparse Dictionary Learning in Mechanistic Interpretability](https://arxiv.org/abs/2512.05534)
 
 
 ### Dedicated Publication Threads
