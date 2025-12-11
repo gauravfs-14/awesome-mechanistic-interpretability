@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 10, 2025 at 01:14:55 AM UTC
+December 11, 2025 at 01:15:24 AM UTC
 
 
 ## Theorem
 
-## Papers (405)
+## Papers (409)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -439,6 +439,10 @@ December 10, 2025 at 01:14:55 AM UTC
 - [XMCQDPT2-Fidelity Transfer-Learning Potentials and a Wavepacket Oscillation Model with Power-Law Decay for Ultrafast Photodynamics](https://arxiv.org/abs/2512.07537)
 - [ExPUFFIN: Thermodynamic Consistent Viscosity Prediction in an Extended Path-Unifying Feed-Forward Interfaced Network](https://arxiv.org/abs/2512.06927)
 - [Mechanistic Interpretability of GPT-2: Lexical and Contextual Layers in Sentiment Analysis](https://arxiv.org/abs/2512.06681)
+- [Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs](https://arxiv.org/abs/2512.08923)
+- [A microstructural rheological model for transient creep in polycrystalline ice](https://arxiv.org/abs/2512.08907)
+- [Toward Faithful Retrieval-Augmented Generation with Sparse Autoencoders](https://arxiv.org/abs/2512.08892)
+- [Bayesian Co-Navigation of a Computational Physical Model and AFM Experiment to Autonomously Survey a Combinatorial Materials Library](https://arxiv.org/abs/2512.08084)
 
 
 ### Dedicated Publication Threads
