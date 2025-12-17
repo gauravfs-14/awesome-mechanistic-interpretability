@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 16, 2025 at 01:16:19 AM UTC
+December 17, 2025 at 01:11:23 AM UTC
 
 
 ## Theorem
 
-## Papers (414)
+## Papers (416)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -448,6 +448,8 @@ December 16, 2025 at 01:16:19 AM UTC
 - [Interpretable and Steerable Concept Bottleneck Sparse Autoencoders](https://arxiv.org/abs/2512.10805)
 - [Unlocking the Address Book: Dissecting the Sparse Semantic Structure of LLM Key-Value Caches via Sparse Autoencoders](https://arxiv.org/abs/2512.10547)
 - [SDialog: A Python Toolkit for End-to-End Agent Building, User Simulation, Dialog Generation, and Evaluation](https://arxiv.org/abs/2506.10622)
+- [Physics-informed neural network for fatigue life prediction of irradiated austenitic and ferritic/martensitic steels](https://arxiv.org/abs/2508.17303)
+- [ConceptGuard: Neuro-Symbolic Safety Guardrails via Sparse Interpretable Jailbreak Concepts](https://arxiv.org/abs/2508.16325)
 
 
 ### Dedicated Publication Threads
