@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 29, 2025 at 01:21:34 AM UTC
+December 30, 2025 at 01:15:54 AM UTC
 
 
 ## Theorem
 
-## Papers (426)
+## Papers (428)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -460,6 +460,8 @@ December 29, 2025 at 01:21:34 AM UTC
 - [Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability](https://arxiv.org/abs/2512.18092)
 - [Block-Recurrent Dynamics in Vision Transformers](https://arxiv.org/abs/2512.19941)
 - [Sign-Aware Multistate Jaccard Kernels and Geometry for Real and Complex-Valued Signals](https://arxiv.org/abs/2512.19721)
+- [The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds](https://arxiv.org/abs/2512.21670)
+- [Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643)
 
 
 ### Dedicated Publication Threads
