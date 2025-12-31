@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-December 30, 2025 at 01:15:54 AM UTC
+December 31, 2025 at 01:17:22 AM UTC
 
 
 ## Theorem
 
-## Papers (428)
+## Papers (434)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -462,6 +462,12 @@ December 30, 2025 at 01:15:54 AM UTC
 - [Sign-Aware Multistate Jaccard Kernels and Geometry for Real and Complex-Valued Signals](https://arxiv.org/abs/2512.19721)
 - [The Deepfake Detective: Interpreting Neural Forensics Through Sparse Features and Manifolds](https://arxiv.org/abs/2512.21670)
 - [Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding](https://arxiv.org/abs/2512.21643)
+- [Information is localized in growing network models](https://arxiv.org/abs/2512.23622)
+- [Mono- and Polyauxic Growth Kinetics: A Semi-Mechanistic Framework for Complex Biological Dynamics](https://arxiv.org/abs/2507.05960)
+- [Interpretable Safety Alignment via SAE-Constructed Low-Rank Subspace Adaptation](https://arxiv.org/abs/2512.23260)
+- [Mechanistic Analysis of Circuit Preservation in Federated Learning](https://arxiv.org/abs/2512.23043)
+- [A Paradigm Shift in Human Neuroscience Research: Progress, Prospects, and a Proof of Concept for Population Neuroscience](https://arxiv.org/abs/2212.04195)
+- [EvoXplain: When Machine Learning Models Agree on Predictions but Disagree on Why -- Measuring Mechanistic Multiplicity Across Training Runs](https://arxiv.org/abs/2512.22240)
 
 
 ### Dedicated Publication Threads
