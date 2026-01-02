@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 1, 2026 at 01:23:45 AM UTC
+January 2, 2026 at 01:17:50 AM UTC
 
 
 ## Theorem
 
-## Papers (434)
+## Papers (442)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -468,6 +468,14 @@ January 1, 2026 at 01:23:45 AM UTC
 - [Mechanistic Analysis of Circuit Preservation in Federated Learning](https://arxiv.org/abs/2512.23043)
 - [A Paradigm Shift in Human Neuroscience Research: Progress, Prospects, and a Proof of Concept for Population Neuroscience](https://arxiv.org/abs/2212.04195)
 - [EvoXplain: When Machine Learning Models Agree on Predictions but Disagree on Why -- Measuring Mechanistic Multiplicity Across Training Runs](https://arxiv.org/abs/2512.22240)
+- [Triangulation as an Acceptance Rule for Multilingual Mechanistic Interpretability](https://arxiv.org/abs/2512.24842)
+- [BIOME-Bench: A Benchmark for Biomolecular Interaction Inference and Multi-Omics Pathway Mechanism Elucidation from Scientific Literature](https://arxiv.org/abs/2512.24733)
+- [Connecting strain rate dependence of fcc metals to dislocation avalanche signatures](https://arxiv.org/abs/2512.24485)
+- [Towards mechanistic understanding in a data-driven weather model: internal activations reveal interpretable physical features](https://arxiv.org/abs/2512.24440)
+- ["X-ray Coulomb Counting" to understand electrochemical systems](https://arxiv.org/abs/2512.24372)
+- [Bridging Visual Intuition and Chemical Expertise: An Autonomous Analysis Framework for Nonadiabatic Dynamics Simulations via Mentor-Engineer-Student Collaboration](https://arxiv.org/abs/2512.24133)
+- [Adversarial Lens: Exploiting Attention Layers to Generate Adversarial Examples for Evaluation](https://arxiv.org/abs/2512.23837)
+- [Emergent World Beliefs: Exploring Transformers in Stochastic Games](https://arxiv.org/abs/2512.23722)
 
 
 ### Dedicated Publication Threads
