@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 6, 2026 at 01:17:30 AM UTC
+January 7, 2026 at 01:17:36 AM UTC
 
 
 ## Theorem
 
-## Papers (442)
+## Papers (445)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -476,6 +476,9 @@ January 6, 2026 at 01:17:30 AM UTC
 - [Bridging Visual Intuition and Chemical Expertise: An Autonomous Analysis Framework for Nonadiabatic Dynamics Simulations via Mentor-Engineer-Student Collaboration](https://arxiv.org/abs/2512.24133)
 - [Adversarial Lens: Exploiting Attention Layers to Generate Adversarial Examples for Evaluation](https://arxiv.org/abs/2512.23837)
 - [Emergent World Beliefs: Exploring Transformers in Stochastic Games](https://arxiv.org/abs/2512.23722)
+- [How much neuroscience does a neuroscientist need to know?](https://arxiv.org/abs/2601.02063)
+- [Trustworthy Data-Driven Wildfire Risk Prediction and Understanding in Western Canada](https://arxiv.org/abs/2601.01677)
+- [Central Dogma Transformer: Towards Mechanism-Oriented AI for Cellular Understanding](https://arxiv.org/abs/2601.01089)
 
 
 ### Dedicated Publication Threads
