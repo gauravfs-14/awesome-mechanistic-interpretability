@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 13, 2026 at 01:14:33 AM UTC
+January 14, 2026 at 01:20:34 AM UTC
 
 
 ## Theorem
 
-## Papers (456)
+## Papers (462)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -490,6 +490,12 @@ January 13, 2026 at 01:14:33 AM UTC
 - [Interpreting Transformers Through Attention Head Intervention](https://arxiv.org/abs/2601.04398)
 - [Analytical review of nanoplastic bioaccumulation data and a unified toxicokinetic model: from teleosts to human brain](https://arxiv.org/abs/2512.22593)
 - [Molecular signatures of pressure-induced phase transitions in a lipid bilayer](https://arxiv.org/abs/2601.05626)
+- [A Backpropagation-Free Feedback-Hebbian Network for Continual Learning Dynamics](https://arxiv.org/abs/2601.06758)
+- [AlignSAE: Concept-Aligned Sparse Autoencoders](https://arxiv.org/abs/2512.02004)
+- [Physics-constrained Gaussian Processes for Predicting Shockwave Hugoniot Curves](https://arxiv.org/abs/2601.06655)
+- [Time Travel Engine: A Shared Latent Chronological Manifold Enables Historical Navigation in Large Language Models](https://arxiv.org/abs/2601.06437)
+- [Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers](https://arxiv.org/abs/2601.06338)
+- [LLM-Powered Social Digital Twins: A Framework for Simulating Population Behavioral Response to Policy Interventions](https://arxiv.org/abs/2601.06111)
 
 
 ### Dedicated Publication Threads
