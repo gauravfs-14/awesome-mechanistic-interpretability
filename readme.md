@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 14, 2026 at 01:20:34 AM UTC
+January 15, 2026 at 01:16:22 AM UTC
 
 
 ## Theorem
 
-## Papers (462)
+## Papers (463)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -496,6 +496,7 @@ January 14, 2026 at 01:20:34 AM UTC
 - [Time Travel Engine: A Shared Latent Chronological Manifold Enables Historical Navigation in Large Language Models](https://arxiv.org/abs/2601.06437)
 - [Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers](https://arxiv.org/abs/2601.06338)
 - [LLM-Powered Social Digital Twins: A Framework for Simulating Population Behavioral Response to Policy Interventions](https://arxiv.org/abs/2601.06111)
+- [Vocabulary Expansion of Large Language Models via Kullback-Leibler-Based Self-Distillation](https://arxiv.org/abs/2508.15807)
 
 
 ### Dedicated Publication Threads
