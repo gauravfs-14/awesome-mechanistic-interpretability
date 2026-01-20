@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 19, 2026 at 01:22:11 AM UTC
+January 20, 2026 at 01:17:36 AM UTC
 
 
 ## Theorem
 
-## Papers (467)
+## Papers (473)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -501,6 +501,12 @@ January 19, 2026 at 01:22:11 AM UTC
 - [Where Knowledge Collides: A Mechanistic Study of Intra-Memory Knowledge Conflict in Language Models](https://arxiv.org/abs/2601.09445)
 - [Diagnosing Generalization Failures in Fine-Tuned LLMs: A Cross-Architectural Study on Phishing Detection](https://arxiv.org/abs/2601.10524)
 - [Dedifferentiation stabilizes stem cell lineages: From CTMC to diffusion theory and thresholds](https://arxiv.org/abs/2601.09752)
+- [An Epidemiological Modeling Take on Religion Dynamics](https://arxiv.org/abs/2601.11436)
+- [From Adversarial Poetry to Adversarial Tales: An Interpretability Research Agenda](https://arxiv.org/abs/2601.08837)
+- [Metabolomic Biomarker Discovery for ADHD Diagnosis Using Interpretable Machine Learning](https://arxiv.org/abs/2601.11283)
+- [Mechanistic Learning for Survival Prediction in NSCLC Using Routine Blood Biomarkers and Tumor Kinetics](https://arxiv.org/abs/2601.11148)
+- [From Interpretability to Performance: Optimizing Retrieval Heads for Long-Context Language Models](https://arxiv.org/abs/2601.11020)
+- [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)
 
 
 ### Dedicated Publication Threads
