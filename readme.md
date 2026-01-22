@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 21, 2026 at 01:20:12 AM UTC
+January 22, 2026 at 01:20:22 AM UTC
 
 
 ## Theorem
 
-## Papers (473)
+## Papers (482)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -507,6 +507,15 @@ January 21, 2026 at 01:20:12 AM UTC
 - [Mechanistic Learning for Survival Prediction in NSCLC Using Routine Blood Biomarkers and Tumor Kinetics](https://arxiv.org/abs/2601.11148)
 - [From Interpretability to Performance: Optimizing Retrieval Heads for Long-Context Language Models](https://arxiv.org/abs/2601.11020)
 - [Reasoning Models Generate Societies of Thought](https://arxiv.org/abs/2601.10825)
+- [BACH-V: Bridging Abstract and Concrete Human-Values in Large Language Models](https://arxiv.org/abs/2601.14007)
+- [Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models](https://arxiv.org/abs/2601.14004)
+- [Patterning: The Dual of Interpretability](https://arxiv.org/abs/2601.13548)
+- [Hierarchical Sparse Circuit Extraction from Billion-Parameter Language Models through Scalable Attribution Graph Decomposition](https://arxiv.org/abs/2601.12879)
+- [The Physics of the Dancing \emph{Deity}: Coupled Oscillators in Himalayan Processions](https://arxiv.org/abs/2601.12872)
+- [Race, Ethnicity and Their Implication on Bias in Large Language Models](https://arxiv.org/abs/2601.12868)
+- [A Machine Learning--Based Surrogate EKMA Framework for Diagnosing Urban Ozone Formation Regimes: Evidence from Los Angeles](https://arxiv.org/abs/2601.12321)
+- [Long-term prediction of ENSO with physics-guided Deep Echo State Networks](https://arxiv.org/abs/2601.12251)
+- [Persistent Sheaf Laplacian Analysis of Protein Stability and Solubility Changes upon Mutation](https://arxiv.org/abs/2601.12219)
 
 
 ### Dedicated Publication Threads
