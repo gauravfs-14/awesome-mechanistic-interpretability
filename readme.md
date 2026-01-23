@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 22, 2026 at 01:20:22 AM UTC
+January 23, 2026 at 01:18:20 AM UTC
 
 
 ## Theorem
 
-## Papers (482)
+## Papers (485)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -516,6 +516,9 @@ January 22, 2026 at 01:20:22 AM UTC
 - [A Machine Learning--Based Surrogate EKMA Framework for Diagnosing Urban Ozone Formation Regimes: Evidence from Los Angeles](https://arxiv.org/abs/2601.12321)
 - [Long-term prediction of ENSO with physics-guided Deep Echo State Networks](https://arxiv.org/abs/2601.12251)
 - [Persistent Sheaf Laplacian Analysis of Protein Stability and Solubility Changes upon Mutation](https://arxiv.org/abs/2601.12219)
+- [Single-Node Wilson--Cowan Model Accounts for Speech-Evoked γγ-Band Deficits in Schizophrenia](https://arxiv.org/abs/2601.15032)
+- [LLM Powered Social Digital Twins: A Framework for Simulating Population Behavioral Response to Policy Interventions](https://arxiv.org/abs/2601.06111)
+- [DiSPA: Differential Substructure-Pathway Attention for Drug Response Prediction](https://arxiv.org/abs/2601.14346)
 
 
 ### Dedicated Publication Threads
