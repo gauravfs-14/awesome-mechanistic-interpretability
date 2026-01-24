@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 23, 2026 at 01:18:20 AM UTC
+January 24, 2026 at 01:16:18 AM UTC
 
 
 ## Theorem
 
-## Papers (485)
+## Papers (488)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -519,6 +519,9 @@ January 23, 2026 at 01:18:20 AM UTC
 - [Single-Node Wilson--Cowan Model Accounts for Speech-Evoked γγ-Band Deficits in Schizophrenia](https://arxiv.org/abs/2601.15032)
 - [LLM Powered Social Digital Twins: A Framework for Simulating Population Behavioral Response to Policy Interventions](https://arxiv.org/abs/2601.06111)
 - [DiSPA: Differential Substructure-Pathway Attention for Drug Response Prediction](https://arxiv.org/abs/2601.14346)
+- [White-Box mHC: Electromagnetic Spectrum-Aware and Interpretable Stream Interactions for Hyperspectral Image Classification](https://arxiv.org/abs/2601.15757)
+- [Emergence and Evolution of Interpretable Concepts in Diffusion Models](https://arxiv.org/abs/2504.15473)
+- [Latent Causal Diffusions for Single-Cell Perturbation Modeling](https://arxiv.org/abs/2601.15341)
 
 
 ### Dedicated Publication Threads
