@@ -531,6 +531,7 @@ January 28, 2026 at 01:19:34 AM UTC
 - [Distill: Circuits Thread](https://distill.pub/2020/circuits/)
 
 ## Library
+- [Bounded Systems Theory](https://github.com/moketchups/BoundedSystemsTheory) - Empirical probe testing structural limits across 6 LLM architectures. Includes reproducible code and 33 probe result files.
 
 ## Tutorial
 
