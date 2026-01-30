@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 29, 2026 at 01:40:18 AM UTC
+January 30, 2026 at 01:29:12 AM UTC
 
 
 ## Theorem
 
-## Papers (492)
+## Papers (495)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -526,6 +526,9 @@ January 29, 2026 at 01:40:18 AM UTC
 - [Interpretability of the Intent Detection Problem: A New Approach](https://arxiv.org/abs/2601.17156)
 - [Automated Interpretability Metrics Do Not Distinguish Trained and Random Transformers](https://arxiv.org/abs/2501.17727)
 - [How Do Transformers Learn to Associate Tokens: Gradient Leading Terms Bring Mechanistic Interpretability](https://arxiv.org/abs/2601.19208)
+- [Data-driven sparse identification of vector-borne disease dynamics with memory effects](https://arxiv.org/abs/2601.20591)
+- [Concept Component Analysis: A Principled Approach for Concept Extraction in LLMs](https://arxiv.org/abs/2601.20420)
+- [Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures](https://arxiv.org/abs/2601.19928)
 
 
 ### Dedicated Publication Threads
