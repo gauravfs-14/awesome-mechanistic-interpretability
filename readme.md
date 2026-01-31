@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-January 30, 2026 at 01:29:12 AM UTC
+January 31, 2026 at 01:26:20 AM UTC
 
 
 ## Theorem
 
-## Papers (495)
+## Papers (500)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -529,6 +529,11 @@ January 30, 2026 at 01:29:12 AM UTC
 - [Data-driven sparse identification of vector-borne disease dynamics with memory effects](https://arxiv.org/abs/2601.20591)
 - [Concept Component Analysis: A Principled Approach for Concept Extraction in LLMs](https://arxiv.org/abs/2601.20420)
 - [Towards a Mechanistic Understanding of Large Reasoning Models: A Survey of Training, Inference, and Failures](https://arxiv.org/abs/2601.19928)
+- [Putting a Face to Forgetting: Continual Learning meets Mechanistic Interpretability](https://arxiv.org/abs/2601.22012)
+- [Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units](https://arxiv.org/abs/2601.21996)
+- [Amortized Spectral Kernel Discovery via Prior-Data Fitted Network](https://arxiv.org/abs/2601.21731)
+- [A Unified Theory of Sparse Dictionary Learning in Mechanistic Interpretability: Piecewise Biconvexity and Spurious Minima](https://arxiv.org/abs/2512.05534)
+- [A Multi-agent Framework for Physical Laws Discovery](https://arxiv.org/abs/2411.16416)
 
 
 ### Dedicated Publication Threads
