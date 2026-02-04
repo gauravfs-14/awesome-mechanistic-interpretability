@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 3, 2026 at 01:46:01 AM UTC
+February 4, 2026 at 01:29:11 AM UTC
 
 
 ## Theorem
 
-## Papers (503)
+## Papers (509)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -537,6 +537,12 @@ February 3, 2026 at 01:46:01 AM UTC
 - [Hide and Seek in Embedding Space: Geometry-based Steganography and Detection in Large Language Models](https://arxiv.org/abs/2601.22818)
 - [Sparse or Dense? A Mechanistic Estimation of Computation Density in Transformer-based LLMs](https://arxiv.org/abs/2601.22795)
 - [Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/2601.22203)
+- [BiasGym: A Simple and Generalizable Framework for Analyzing and Removing Biases through Elicitation](https://arxiv.org/abs/2508.08855)
+- [Universal Redundancies in Time Series Foundation Models](https://arxiv.org/abs/2602.01605)
+- [Mechanistic Interpretability of Brain-to-Speech Models Across Speech Modes](https://arxiv.org/abs/2602.01247)
+- [Toward Interpretable and Generalizable AI in Regulatory Genomics](https://arxiv.org/abs/2602.01230)
+- [Supervised sparse auto-encoders as unconstrained feature models for semantic composition](https://arxiv.org/abs/2602.00924)
+- [Agentic Framework for Epidemiological Modeling](https://arxiv.org/abs/2602.00299)
 
 
 ### Dedicated Publication Threads
