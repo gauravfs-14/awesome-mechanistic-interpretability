@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 4, 2026 at 01:29:11 AM UTC
+February 5, 2026 at 01:42:19 AM UTC
 
 
 ## Theorem
 
-## Papers (509)
+## Papers (513)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -543,6 +543,10 @@ February 4, 2026 at 01:29:11 AM UTC
 - [Toward Interpretable and Generalizable AI in Regulatory Genomics](https://arxiv.org/abs/2602.01230)
 - [Supervised sparse auto-encoders as unconstrained feature models for semantic composition](https://arxiv.org/abs/2602.00924)
 - [Agentic Framework for Epidemiological Modeling](https://arxiv.org/abs/2602.00299)
+- [Explaining the Explainer: Understanding the Inner Workings of Transformer-based Symbolic Regression Models](https://arxiv.org/abs/2602.03506)
+- [Mechanistic Interpretability as Statistical Estimation: A Variance Analysis](https://arxiv.org/abs/2510.00845)
+- [MARADONER: Motif Activity Response Analysis Done Right](https://arxiv.org/abs/2602.03343)
+- [BioGen: An Evidence-Grounded Framework for Interpreting RNA-seq Gene Clusters in Antimicrobial Resistance Research](https://arxiv.org/abs/2510.16082)
 
 
 ### Dedicated Publication Threads
