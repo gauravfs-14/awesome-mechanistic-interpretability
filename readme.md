@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 6, 2026 at 01:41:50 AM UTC
+February 7, 2026 at 01:29:06 AM UTC
 
 
 ## Theorem
 
-## Papers (515)
+## Papers (526)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -549,6 +549,17 @@ February 6, 2026 at 01:41:50 AM UTC
 - [BioGen: An Evidence-Grounded Framework for Interpreting RNA-seq Gene Clusters in Antimicrobial Resistance Research](https://arxiv.org/abs/2510.16082)
 - [Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613)
 - [Discovering Mechanistic Models of Neural Activity: System Identification in an in Silico Zebrafish](https://arxiv.org/abs/2602.04492)
+- [PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling](https://arxiv.org/abs/2602.06030)
+- [DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](https://arxiv.org/abs/2602.05859)
+- [From Vision to Decision: Neuromorphic Control for Autonomous Navigation and Tracking](https://arxiv.org/abs/2602.05683)
+- [Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities](https://arxiv.org/abs/2602.05532)
+- [A waveguide kinetics framework for electrochemical polarization](https://arxiv.org/abs/2602.05455)
+- [Somatic Mechanotherapy Activates a Spatiotemporally Synchronized CPTC Wnt Axis for Gut Regeneration](https://arxiv.org/abs/2602.05451)
+- [Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs](https://arxiv.org/abs/2602.05444)
+- [Advancing Opinion Dynamics Modeling with Neural Diffusion-Convection-Reaction Equation](https://arxiv.org/abs/2602.05403)
+- [Path Sampling for Rare Events Boosted by Machine Learning](https://arxiv.org/abs/2602.05167)
+- [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](https://arxiv.org/abs/2506.22740)
+- [Momentum Attention: The Physics of In-Context Learning and Spectral Forensics for Mechanistic Interpretability](https://arxiv.org/abs/2602.04902)
 
 
 ### Dedicated Publication Threads
