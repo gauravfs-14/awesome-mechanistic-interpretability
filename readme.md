@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 8, 2026 at 02:05:17 AM UTC
+February 10, 2026 at 01:59:44 AM UTC
 
 
 ## Theorem
 
-## Papers (526)
+## Papers (529)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -560,6 +560,9 @@ February 8, 2026 at 02:05:17 AM UTC
 - [Path Sampling for Rare Events Boosted by Machine Learning](https://arxiv.org/abs/2602.05167)
 - [Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](https://arxiv.org/abs/2506.22740)
 - [Momentum Attention: The Physics of In-Context Learning and Spectral Forensics for Mechanistic Interpretability](https://arxiv.org/abs/2602.04902)
+- [The Quantum Sieve Tracer: A Hybrid Framework for Layer-Wise Activation Tracing in Large Language Models](https://arxiv.org/abs/2602.06852)
+- [Habitat heterogeneity and dispersal network structure as drivers of metacommunity dynamics](https://arxiv.org/abs/2602.06640)
+- [How (Not) to Hybridize Neural and Mechanistic Models for Epidemiological Forecasting](https://arxiv.org/abs/2602.06323)
 
 
 ### Dedicated Publication Threads
