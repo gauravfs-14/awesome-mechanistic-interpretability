@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 10, 2026 at 01:59:44 AM UTC
+February 11, 2026 at 01:55:05 AM UTC
 
 
 ## Theorem
 
-## Papers (529)
+## Papers (536)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -563,6 +563,13 @@ February 10, 2026 at 01:59:44 AM UTC
 - [The Quantum Sieve Tracer: A Hybrid Framework for Layer-Wise Activation Tracing in Large Language Models](https://arxiv.org/abs/2602.06852)
 - [Habitat heterogeneity and dispersal network structure as drivers of metacommunity dynamics](https://arxiv.org/abs/2602.06640)
 - [How (Not) to Hybridize Neural and Mechanistic Models for Epidemiological Forecasting](https://arxiv.org/abs/2602.06323)
+- [Reasoning aligns language models to human cognition](https://arxiv.org/abs/2602.08693)
+- [How Do Language Models Understand Tables? A Mechanistic Analysis of Cell Location](https://arxiv.org/abs/2602.08548)
+- [Patches of Nonlinearity: Instruction Vectors in Large Language Models](https://arxiv.org/abs/2602.07930)
+- [Revisiting Transformers with Insights from Image Filtering and Boosting](https://arxiv.org/abs/2506.10371)
+- [Towards Understanding Multimodal Fine-Tuning: Spatial Features](https://arxiv.org/abs/2602.08713)
+- [CodeCircuit: Toward Inferring LLM-Generated Code Correctness via Attribution Graphs](https://arxiv.org/abs/2602.07080)
+- [Learning Alzheimer's Disease Signatures by bridging EEG with Spiking Neural Networks and Biophysical Simulations](https://arxiv.org/abs/2602.07010)
 
 
 ### Dedicated Publication Threads
