@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 13, 2026 at 01:50:46 AM UTC
+February 14, 2026 at 01:41:28 AM UTC
 
 
 ## Theorem
 
-## Papers (543)
+## Papers (549)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -577,6 +577,12 @@ February 13, 2026 at 01:50:46 AM UTC
 - [Med-SegLens: Latent-Level Model Diffing for Interpretable Medical Image Segmentation](https://arxiv.org/abs/2602.10508)
 - [Control Reinforcement Learning: Token-Level Mechanistic Analysis via Learned SAE Feature Steering](https://arxiv.org/abs/2602.10437)
 - [EVA: Towards a universal model of the immune system](https://arxiv.org/abs/2602.10168)
+- [DEpiABS: Differentiable Epidemic Agent-Based Simulator](https://arxiv.org/abs/2602.12102)
+- [Protein Circuit Tracing via Cross-layer Transcoders](https://arxiv.org/abs/2602.12026)
+- [Dopamine: Brain Modes, Not Brains](https://arxiv.org/abs/2602.11726)
+- [Control Reinforcement Learning: Interpretable Token-Level Steering of LLMs via Sparse Autoencoder Features](https://arxiv.org/abs/2602.10437)
+- [Revealing Exotic Nanophase Iron in Lunar Samples Through Impact-Driven Spatial Fingerprints](https://arxiv.org/abs/2602.11317)
+- [Learning Glioblastoma Tumor Heterogeneity Using Brain Inspired Topological Neural Networks](https://arxiv.org/abs/2602.11234)
 
 
 ### Dedicated Publication Threads
