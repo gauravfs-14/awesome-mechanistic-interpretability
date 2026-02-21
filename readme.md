@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 20, 2026 at 01:43:00 AM UTC
+February 21, 2026 at 01:29:06 AM UTC
 
 
 ## Theorem
 
-## Papers (557)
+## Papers (564)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -591,6 +591,13 @@ February 20, 2026 at 01:43:00 AM UTC
 - [What Do Neurons Listen To? A Neuron-level Dissection of a General-purpose Audio Model](https://arxiv.org/abs/2602.15307)
 - [Seeing to Generalize: How Visual Data Corrects Binding Shortcuts](https://arxiv.org/abs/2602.15183)
 - [Universal Framework for Decomposing Ionic Transport into Interpretable Mechanisms](https://arxiv.org/abs/2602.16636)
+- [Systematic Evaluation of Single-Cell Foundation Model Interpretability Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal](https://arxiv.org/abs/2602.17532)
+- [Mechanistic Interpretability of Cognitive Complexity in LLMs via Linear Probing using Bloom's Taxonomy](https://arxiv.org/abs/2602.17229)
+- [Exploring Memory Effects: Sparse Identification in Vector-Borne Diseases](https://arxiv.org/abs/2601.20591)
+- [Discovering Universal Activation Directions for PII Leakage in Language Models](https://arxiv.org/abs/2602.16980)
+- [On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking](https://arxiv.org/abs/2602.16849)
+- [Formal Mechanistic Interpretability: Automated Circuit Discovery with Provable Guarantees](https://arxiv.org/abs/2602.16823)
+- [Quantifying LLM Attention-Head Stability: Implications for Circuit Universality](https://arxiv.org/abs/2602.16740)
 
 
 ### Dedicated Publication Threads
