@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 24, 2026 at 01:44:16 AM UTC
+February 25, 2026 at 01:46:39 AM UTC
 
 
 ## Theorem
 
-## Papers (566)
+## Papers (570)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -600,6 +600,10 @@ February 24, 2026 at 01:44:16 AM UTC
 - [Quantifying LLM Attention-Head Stability: Implications for Circuit Universality](https://arxiv.org/abs/2602.16740)
 - [A Probabilistic Framework for LLM-Based Model Discovery](https://arxiv.org/abs/2602.18266)
 - [Simplifying Outcomes of Language Model Component Analyses with ELIA](https://arxiv.org/abs/2602.18262)
+- [Mechanistic Interpretability with Sparse Autoencoder Neural Operators](https://arxiv.org/abs/2509.03738)
+- [Hiding in Plain Text: Detecting Concealed Jailbreaks via Activation Disentanglement](https://arxiv.org/abs/2602.19396)
+- [Beyond Behavioural Trade-Offs: Mechanistic Tracing of Pain-Pleasure Decisions in an LLM](https://arxiv.org/abs/2602.19159)
+- [Temperature as a Dynamically Maintained Steady State: Photonic Mechanisms, Maintenance Cost, and the Limits of the Infinite-Reservoir Idealization](https://arxiv.org/abs/2601.22247)
 
 
 ### Dedicated Publication Threads
