@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 26, 2026 at 01:42:54 AM UTC
+February 27, 2026 at 01:41:34 AM UTC
 
 
 ## Theorem
 
-## Papers (571)
+## Papers (574)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -605,6 +605,9 @@ February 26, 2026 at 01:42:54 AM UTC
 - [Beyond Behavioural Trade-Offs: Mechanistic Tracing of Pain-Pleasure Decisions in an LLM](https://arxiv.org/abs/2602.19159)
 - [Temperature as a Dynamically Maintained Steady State: Photonic Mechanisms, Maintenance Cost, and the Limits of the Infinite-Reservoir Idealization](https://arxiv.org/abs/2601.22247)
 - [Unveiling Scaling Laws of Parameter Identifiability and Uncertainty Quantification in Data-Driven Biological Modeling](https://arxiv.org/abs/2602.20495)
+- [Robust Model Selection for Discovery of Latent Mechanistic Processes](https://arxiv.org/abs/2602.22062)
+- [ABM-UDE: Developing Surrogates for Epidemic Agent-Based Models via Scientific Machine Learning](https://arxiv.org/abs/2602.21588)
+- [MINAR: Mechanistic Interpretability for Neural Algorithmic Reasoning](https://arxiv.org/abs/2602.21442)
 
 
 ### Dedicated Publication Threads
