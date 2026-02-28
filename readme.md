@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-February 27, 2026 at 01:41:34 AM UTC
+February 28, 2026 at 01:23:27 AM UTC
 
 
 ## Theorem
 
-## Papers (574)
+## Papers (580)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -608,6 +608,12 @@ February 27, 2026 at 01:41:34 AM UTC
 - [Robust Model Selection for Discovery of Latent Mechanistic Processes](https://arxiv.org/abs/2602.22062)
 - [ABM-UDE: Developing Surrogates for Epidemic Agent-Based Models via Scientific Machine Learning](https://arxiv.org/abs/2602.21588)
 - [MINAR: Mechanistic Interpretability for Neural Algorithmic Reasoning](https://arxiv.org/abs/2602.21442)
+- [SC-Arena: A Natural Language Benchmark for Single-Cell Reasoning with Knowledge-Augmented Evaluation](https://arxiv.org/abs/2602.23199)
+- [MetaOthello: A Controlled Study of Multiple World Models in Transformers](https://arxiv.org/abs/2602.23164)
+- [Certified Circuits: Stability Guarantees for Mechanistic Circuits](https://arxiv.org/abs/2602.22968)
+- [Interpreting and Steering State-Space Models via Activation Subspace Bottlenecks](https://arxiv.org/abs/2602.22719)
+- [Transformers converge to invariant algorithmic cores](https://arxiv.org/abs/2602.22600)
+- [AR&D: A Framework for Retrieving and Describing Concepts for Interpreting AudioLLMs](https://arxiv.org/abs/2602.22253)
 
 
 ### Dedicated Publication Threads
