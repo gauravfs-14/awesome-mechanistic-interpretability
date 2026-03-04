@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 3, 2026 at 01:46:33 AM UTC
+March 4, 2026 at 01:29:16 AM UTC
 
 
 ## Theorem
 
-## Papers (581)
+## Papers (589)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -615,6 +615,14 @@ March 3, 2026 at 01:46:33 AM UTC
 - [Transformers converge to invariant algorithmic cores](https://arxiv.org/abs/2602.22600)
 - [AR&D: A Framework for Retrieving and Describing Concepts for Interpreting AudioLLMs](https://arxiv.org/abs/2602.22253)
 - [On De-Individuated Neurons: Continuous Symmetries Enable Dynamic Topologies](https://arxiv.org/abs/2602.23405)
+- [Diagnosing Generalization Failures from Representational Geometry Markers](https://arxiv.org/abs/2603.01879)
+- [Emerging Human-like Strategies for Semantic Memory Foraging in Large Language Models](https://arxiv.org/abs/2603.01822)
+- [Decoding Answers Before Chain-of-Thought: Evidence from Pre-CoT Probes and Activation Steering](https://arxiv.org/abs/2603.01437)
+- [Interpretable Cross-Network Attention for Resting-State fMRI Representation Learning](https://arxiv.org/abs/2603.00786)
+- [Emergence of Spatial Representation in an Actor-Critic Agent with Hippocampus-Inspired Sequence Generator](https://arxiv.org/abs/2510.09951)
+- [A Closed-loop Framework to Discriminate Models Using Optimal Control](https://arxiv.org/abs/2603.00709)
+- [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](https://arxiv.org/abs/2603.00510)
+- [Inferring brain plasticity rule under long-term stimulation with structured recurrent dynamics](https://arxiv.org/abs/2603.00213)
 
 
 ### Dedicated Publication Threads
