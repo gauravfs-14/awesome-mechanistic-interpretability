@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 5, 2026 at 01:43:42 AM UTC
+March 6, 2026 at 01:46:47 AM UTC
 
 
 ## Theorem
 
-## Papers (589)
+## Papers (591)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -623,6 +623,8 @@ March 5, 2026 at 01:43:42 AM UTC
 - [A Closed-loop Framework to Discriminate Models Using Optimal Control](https://arxiv.org/abs/2603.00709)
 - [What Do Visual Tokens Really Encode? Uncovering Sparsity and Redundancy in Multimodal Large Language Models](https://arxiv.org/abs/2603.00510)
 - [Inferring brain plasticity rule under long-term stimulation with structured recurrent dynamics](https://arxiv.org/abs/2603.00213)
+- [TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth](https://arxiv.org/abs/2603.04058)
+- [Tracing Pharmacological Knowledge In Large Language Models](https://arxiv.org/abs/2603.03407)
 
 
 ### Dedicated Publication Threads
