@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 6, 2026 at 01:46:47 AM UTC
+March 7, 2026 at 01:26:54 AM UTC
 
 
 ## Theorem
 
-## Papers (591)
+## Papers (596)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -625,6 +625,11 @@ March 6, 2026 at 01:46:47 AM UTC
 - [Inferring brain plasticity rule under long-term stimulation with structured recurrent dynamics](https://arxiv.org/abs/2603.00213)
 - [TumorFlow: Physics-Guided Longitudinal MRI Synthesis of Glioblastoma Growth](https://arxiv.org/abs/2603.04058)
 - [Tracing Pharmacological Knowledge In Large Language Models](https://arxiv.org/abs/2603.03407)
+- [Observing and Controlling Features in Vision-Language-Action Models](https://arxiv.org/abs/2603.05487)
+- [The Geometric Inductive Bias of Grokking: Bypassing Phase Transitions via Architectural Topology](https://arxiv.org/abs/2603.05228)
+- [BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry](https://arxiv.org/abs/2603.05016)
+- [Stochastic Optimal Feedforward-Feedback Control for Partially Observable Sensorimotor Systems](https://arxiv.org/abs/2603.04994)
+- [Steering Awareness: Models Can Be Trained to Detect Activation Steering](https://arxiv.org/abs/2511.21399)
 
 
 ### Dedicated Publication Threads
