@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 8, 2026 at 01:44:18 AM UTC
+March 9, 2026 at 01:45:41 AM UTC
 
 
 ## Theorem
 
-## Papers (596)
+## Papers (598)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -630,6 +630,8 @@ March 8, 2026 at 01:44:18 AM UTC
 - [BioLLMAgent: A Hybrid Framework with Enhanced Structural Interpretability for Simulating Human Decision-Making in Computational Psychiatry](https://arxiv.org/abs/2603.05016)
 - [Stochastic Optimal Feedforward-Feedback Control for Partially Observable Sensorimotor Systems](https://arxiv.org/abs/2603.04994)
 - [Steering Awareness: Models Can Be Trained to Detect Activation Steering](https://arxiv.org/abs/2511.21399)
+- [Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering](https://arxiv.org/abs/2603.06080)
+- [The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR\rightarrow\rightarrowLLM Pipelines?](https://arxiv.org/abs/2602.17598)
 
 
 ### Dedicated Publication Threads
