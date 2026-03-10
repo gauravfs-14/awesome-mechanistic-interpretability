@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 9, 2026 at 01:45:41 AM UTC
+March 10, 2026 at 01:27:35 AM UTC
 
 
 ## Theorem
 
-## Papers (598)
+## Papers (601)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -632,6 +632,9 @@ March 9, 2026 at 01:45:41 AM UTC
 - [Steering Awareness: Models Can Be Trained to Detect Activation Steering](https://arxiv.org/abs/2511.21399)
 - [Lost in Translation: Simulation-Informed Bayesian Inference Improves Understanding of Molecular Motion From Neutron Scattering](https://arxiv.org/abs/2603.06080)
 - [The Cascade Equivalence Hypothesis: When Do Speech LLMs Behave Like ASR\rightarrow\rightarrowLLM Pipelines?](https://arxiv.org/abs/2602.17598)
+- [Learning Concept Bottleneck Models from Mechanistic Explanations](https://arxiv.org/abs/2603.07343)
+- [Are Audio-Language Models Listening? Audio-Specialist Heads for Adaptive Audio Steering](https://arxiv.org/abs/2603.06854)
+- [Causal Interpretation of Neural Network Computations with Contribution Decomposition](https://arxiv.org/abs/2603.06557)
 
 
 ### Dedicated Publication Threads
