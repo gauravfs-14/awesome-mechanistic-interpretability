@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 15, 2026 at 01:55:38 AM UTC
+March 16, 2026 at 01:57:16 AM UTC
 
 
 ## Theorem
 
-## Papers (620)
+## Papers (622)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -654,6 +654,8 @@ March 15, 2026 at 01:55:38 AM UTC
 - [Locating Demographic Bias at the Attention-Head Level in CLIP's Vision Encoder](https://arxiv.org/abs/2603.11793)
 - [Size-Dependent Fluorescence Kinetics Reveal Contributions of Intrinsic Quenching and Singlet-Triplet Annihilation during LHCII Aggregation](https://arxiv.org/abs/2603.11752)
 - [Attention Gathers, MLPs Compose: A Causal Analysis of an Action-Outcome Circuit in VideoViT](https://arxiv.org/abs/2603.11142)
+- [Hydrogen-atom roaming reactions in water clusters: Unveiling an unusual dimension of water reactivity through first-principles calculations and machine learning](https://arxiv.org/abs/2603.12778)
+- [Deep Learning for Blood-Brain Barrier Permeability Prediction: From Discriminative Models to Mechanism-Aware Design](https://arxiv.org/abs/2507.18557)
 
 
 ### Dedicated Publication Threads
