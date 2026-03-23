@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 22, 2026 at 01:49:31 AM UTC
+March 23, 2026 at 01:50:46 AM UTC
 
 
 ## Theorem
 
-## Papers (637)
+## Papers (641)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -671,6 +671,10 @@ March 22, 2026 at 01:49:31 AM UTC
 - [Fundamental Limits of Neural Network Sparsification: Evidence from Catastrophic Interpretability Collapse](https://arxiv.org/abs/2603.18056)
 - [Causal Intervention Framework for Variational Auto Encoder Mechanistic Interpretability](https://arxiv.org/abs/2505.03530)
 - [Sparse Autoencoders Reveal Interpretable and Steerable Features in VLA Models](https://arxiv.org/abs/2603.19183)
+- [Interpreting Reinforcement Learning Model Behavior via Koopman with Control](https://arxiv.org/abs/2603.19968)
+- [A Unified Phase-native Computational Principle Governs Hippocampal Spike Timing and Neural Coding](https://arxiv.org/abs/2603.19690)
+- [Accurate Open-Loop Control of a Soft Continuum Robot Through Visually Learned Latent Representations](https://arxiv.org/abs/2603.19655)
+- [GeoLAN: Geometric Learning of Latent Explanatory Directions in Large Language Models](https://arxiv.org/abs/2603.19460)
 
 
 ### Dedicated Publication Threads
