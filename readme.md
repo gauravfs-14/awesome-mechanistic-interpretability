@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 23, 2026 at 01:50:46 AM UTC
+March 24, 2026 at 01:42:55 AM UTC
 
 
 ## Theorem
 
-## Papers (641)
+## Papers (646)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -675,6 +675,11 @@ March 23, 2026 at 01:50:46 AM UTC
 - [A Unified Phase-native Computational Principle Governs Hippocampal Spike Timing and Neural Coding](https://arxiv.org/abs/2603.19690)
 - [Accurate Open-Loop Control of a Soft Continuum Robot Through Visually Learned Latent Representations](https://arxiv.org/abs/2603.19655)
 - [GeoLAN: Geometric Learning of Latent Explanatory Directions in Large Language Models](https://arxiv.org/abs/2603.19460)
+- [CLT-Forge: A Scalable Library for Cross-Layer Transcoders and Attribution Graphs](https://arxiv.org/abs/2603.21014)
+- [Interpreting the Synchronization Gap: The Hidden Mechanism Inside Diffusion Transformers](https://arxiv.org/abs/2603.20987)
+- [Attention in Space: Functional Roles of VLM Heads for Spatial Reasoning](https://arxiv.org/abs/2603.20662)
+- [Graph-based data-driven discovery of interpretable laws governing corona-induced noise and radio interference for high-voltage transmission lines](https://arxiv.org/abs/2603.20600)
+- [GIP-RAG: An Evidence-Grounded Retrieval-Augmented Framework for Interpretable Gene Interaction and Pathway Impact Analysis](https://arxiv.org/abs/2603.20321)
 
 
 ### Dedicated Publication Threads
