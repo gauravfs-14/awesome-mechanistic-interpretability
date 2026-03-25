@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 24, 2026 at 01:42:55 AM UTC
+March 25, 2026 at 01:48:36 AM UTC
 
 
 ## Theorem
 
-## Papers (646)
+## Papers (652)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -680,6 +680,12 @@ March 24, 2026 at 01:42:55 AM UTC
 - [Attention in Space: Functional Roles of VLM Heads for Spatial Reasoning](https://arxiv.org/abs/2603.20662)
 - [Graph-based data-driven discovery of interpretable laws governing corona-induced noise and radio interference for high-voltage transmission lines](https://arxiv.org/abs/2603.20600)
 - [GIP-RAG: An Evidence-Grounded Retrieval-Augmented Framework for Interpretable Gene Interaction and Pathway Impact Analysis](https://arxiv.org/abs/2603.20321)
+- [TRACE: A Multi-Agent System for Autonomous Physical Reasoning in Seismological](https://arxiv.org/abs/2603.21152)
+- [INTRYGUE: Induction-Aware Entropy Gating for Reliable RAG Uncertainty Estimation](https://arxiv.org/abs/2603.21607)
+- [MCLR: Improving Conditional Modeling in Visual Generative Models via Inter-Class Likelihood-Ratio Maximization and Establishing the Equivalence between Classifier-Free Guidance and Alignment Objectives](https://arxiv.org/abs/2603.22364)
+- [Does Mechanistic Interpretability Transfer Across Data Modalities? A Cross-Domain Causal Circuit Analysis of Variational Autoencoders](https://arxiv.org/abs/2603.21236)
+- [Fair splits flip the leaderboard: CHANRG reveals limited generalization in RNA secondary-structure prediction](https://arxiv.org/abs/2603.22330)
+- [Whether, Not Which: Mechanistic Interpretability Reveals Dissociable Affect Reception and Emotion Categorization in LLMs](https://arxiv.org/abs/2603.22295)
 
 
 ### Dedicated Publication Threads
