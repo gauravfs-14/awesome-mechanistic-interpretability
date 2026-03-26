@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 25, 2026 at 01:48:36 AM UTC
+March 26, 2026 at 01:54:44 AM UTC
 
 
 ## Theorem
 
-## Papers (652)
+## Papers (655)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -686,6 +686,9 @@ March 25, 2026 at 01:48:36 AM UTC
 - [Does Mechanistic Interpretability Transfer Across Data Modalities? A Cross-Domain Causal Circuit Analysis of Variational Autoencoders](https://arxiv.org/abs/2603.21236)
 - [Fair splits flip the leaderboard: CHANRG reveals limited generalization in RNA secondary-structure prediction](https://arxiv.org/abs/2603.22330)
 - [Whether, Not Which: Mechanistic Interpretability Reveals Dissociable Affect Reception and Emotion Categorization in LLMs](https://arxiv.org/abs/2603.22295)
+- [Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning](https://arxiv.org/abs/2603.23854)
+- [Steering LLMs for Culturally Localized Generation](https://arxiv.org/abs/2603.23301)
+- [SafeSeek: Universal Attribution of Safety Circuits in Language Models](https://arxiv.org/abs/2603.23268)
 
 
 ### Dedicated Publication Threads
