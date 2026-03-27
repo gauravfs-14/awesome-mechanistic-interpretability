@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 26, 2026 at 01:54:44 AM UTC
+March 27, 2026 at 01:54:43 AM UTC
 
 
 ## Theorem
 
-## Papers (655)
+## Papers (659)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -689,6 +689,10 @@ March 26, 2026 at 01:54:44 AM UTC
 - [Symbolic--KAN: Kolmogorov-Arnold Networks with Discrete Symbolic Structure for Interpretable Learning](https://arxiv.org/abs/2603.23854)
 - [Steering LLMs for Culturally Localized Generation](https://arxiv.org/abs/2603.23301)
 - [SafeSeek: Universal Attribution of Safety Circuits in Language Models](https://arxiv.org/abs/2603.23268)
+- [Beyond Content Safety: Real-Time Monitoring for Reasoning Vulnerabilities in Large Language Models](https://arxiv.org/abs/2603.25412)
+- [Closing the Confidence-Faithfulness Gap in Large Language Models](https://arxiv.org/abs/2603.25052)
+- [Mechanistically Interpreting Compression in Vision-Language Models](https://arxiv.org/abs/2603.25035)
+- [TRACE: A Multi-Agent System for Autonomous Physical Reasoning for Seismology](https://arxiv.org/abs/2603.21152)
 
 
 ### Dedicated Publication Threads
