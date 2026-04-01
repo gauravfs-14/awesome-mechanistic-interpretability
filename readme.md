@@ -28,12 +28,12 @@ To ensure that the community stays updated on the latest developments, our repos
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
 
 ## Last Updated
-March 31, 2026 at 01:55:51 AM UTC
+April 1, 2026 at 02:05:01 AM UTC
 
 
 ## Theorem
 
-## Papers (664)
+## Papers (669)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -698,6 +698,11 @@ March 31, 2026 at 01:55:51 AM UTC
 - [Sparse Auto-Encoders and Holism about Large Language Models](https://arxiv.org/abs/2603.26207)
 - [EVA: Bridging Performance and Human Alignment in Hard-Attention Vision Models for Image Classification](https://arxiv.org/abs/2603.27340)
 - [Steering Sparse Autoencoder Latents to Control Dynamic Head Pruning in Vision Transformers (Student Abstract)](https://arxiv.org/abs/2603.26743)
+- [Tracking Equivalent Mechanistic Interpretations Across Neural Networks](https://arxiv.org/abs/2603.30002)
+- [BIOGEN: Evidence-Grounded Multi-Agent Reasoning Framework for Transcriptomic Interpretation in Antimicrobial Resistance](https://arxiv.org/abs/2510.16082)
+- [Detecting low left ventricular ejection fraction from ECG using an interpretable and scalable predictor-driven framework](https://arxiv.org/abs/2603.28532)
+- [Omni-Weather: A Unified Multimodal Model for Weather Radar Understanding and Generation](https://arxiv.org/abs/2512.21643)
+- [Low-Rank Adaptation Reduces Catastrophic Forgetting in Sequential Transformer Encoder Fine-Tuning: Controlled Empirical Evidence and Frozen-Backbone Representation Probes](https://arxiv.org/abs/2603.27707)
 
 
 ### Dedicated Publication Threads
