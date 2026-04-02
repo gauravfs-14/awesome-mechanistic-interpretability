@@ -719,6 +719,7 @@ April 2, 2026 at 01:52:37 AM UTC
 
 ### Written Tutorials
 - [Mechanistic Interpretability for LLMs, explained](https://seantrott.substack.com/p/mechanistic-interpretability-for) by [The CounterFactual](https://seantrott.substack.com)
+- [Zoom In: An Introduction to Circuits (Bilingual Tutorial)](https://github.com/Jonny-English/circuits-zoom-in) - Bilingual (Chinese/English) hands-on Jupyter notebook tutorial reproducing Olah et al. 2020's circuits research, covering feature visualization and mechanistic interpretability in CNNs.
 
 ### Video Tutorials
 
