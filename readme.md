@@ -12,7 +12,7 @@ A carefully curated collection of high-quality libraries, projects, tutorials, r
 To ensure that the community stays updated on the latest developments, our repository is automatically updated with recent mechanistic interpretability papers from arXiv. This ensures timely access to new techniques, discoveries, and frameworks that are shaping the future of model transparency and alignment.
 
 > [!NOTE]
-> 📢 **Announcement:** Our paper from AIT Lab is now available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552)!  
+> 📢 **Announcement:** Our paper from AIT Lab is now available on [ACM CSUR](https://doi.org/10.1145/3787104)!  
 > **Title:** *Bridging the Black Box: A Survey on Mechanistic Interpretability in AI*  
 > If you find this paper interesting, please consider citing our work. Thank you for your support!
 
@@ -26,6 +26,10 @@ To ensure that the community stays updated on the latest developments, our repos
 ```
 
 Whether you are investigating the circuits behind in-context learning, decoding attention heads in transformers, or exploring interpretability tools like activation patching and causal tracing, this collection serves as a centralized hub for everything related to Mechanistic Interpretability — enriched by original peer-reviewed contributions and hands-on research from the broader interpretability community.
+
+### Updates
+- [Feb 04, 2026]: Our paper has been accepted at ACM Computing Surveys 🎉!
+- [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
 April 5, 2026 at 01:59:45 AM UTC
