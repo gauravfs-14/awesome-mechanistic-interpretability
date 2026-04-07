@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 6, 2026 at 02:01:15 AM UTC
+April 7, 2026 at 01:56:59 AM UTC
 
 
 ## Theorem
 
-## Papers (677)
+## Papers (679)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -715,6 +715,8 @@ April 6, 2026 at 02:01:15 AM UTC
 - [Finding Belief Geometries with Sparse Autoencoders](https://arxiv.org/abs/2604.02685)
 - [Revealing the Learning Dynamics of Long-Context Continual Pre-training](https://arxiv.org/abs/2604.02650)
 - [Do Audio-Visual Large Language Models Really See and Hear?](https://arxiv.org/abs/2604.02605)
+- [A Multi-Level Causal Intervention Framework for Mechanistic Interpretability in Variational Autoencoders](https://arxiv.org/abs/2505.03530)
+- [Automated Attention Pattern Discovery at Scale in Large Language Models](https://arxiv.org/abs/2604.03764)
 
 
 ### Dedicated Publication Threads
