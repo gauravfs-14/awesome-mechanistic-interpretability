@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 7, 2026 at 01:56:59 AM UTC
+April 8, 2026 at 01:57:53 AM UTC
 
 
 ## Theorem
 
-## Papers (679)
+## Papers (682)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -717,6 +717,9 @@ April 7, 2026 at 01:56:59 AM UTC
 - [Do Audio-Visual Large Language Models Really See and Hear?](https://arxiv.org/abs/2604.02605)
 - [A Multi-Level Causal Intervention Framework for Mechanistic Interpretability in Variational Autoencoders](https://arxiv.org/abs/2505.03530)
 - [Automated Attention Pattern Discovery at Scale in Large Language Models](https://arxiv.org/abs/2604.03764)
+- [Phonetic Perturbations Reveal Tokenizer-Rooted Safety Gaps in LLMs](https://arxiv.org/abs/2505.14226)
+- [Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing](https://arxiv.org/abs/2604.05077)
+- [Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov-Arnold Chemical Reaction Neural Networks (KA-CRNNs)](https://arxiv.org/abs/2512.15628)
 
 
 ### Dedicated Publication Threads
