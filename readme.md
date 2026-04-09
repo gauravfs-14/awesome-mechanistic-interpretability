@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 8, 2026 at 01:57:53 AM UTC
+April 9, 2026 at 01:49:38 AM UTC
 
 
 ## Theorem
 
-## Papers (682)
+## Papers (689)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -720,6 +720,13 @@ April 8, 2026 at 01:57:53 AM UTC
 - [Phonetic Perturbations Reveal Tokenizer-Rooted Safety Gaps in LLMs](https://arxiv.org/abs/2505.14226)
 - [Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing](https://arxiv.org/abs/2604.05077)
 - [Learning continuous state of charge dependent thermal decomposition kinetics for Li-ion cathodes using Kolmogorov-Arnold Chemical Reaction Neural Networks (KA-CRNNs)](https://arxiv.org/abs/2512.15628)
+- [ConceptTracer: Interactive Analysis of Concept Saliency and Selectivity in Neural Representations](https://arxiv.org/abs/2604.07019)
+- [The Mechanistic Invariance Test: Genomic Language Models Fail to Learn Positional Regulatory Logic](https://arxiv.org/abs/2604.06549)
+- [Improving Robustness In Sparse Autoencoders via Masked Regularization](https://arxiv.org/abs/2604.06495)
+- [LAG-XAI: A Lie-Inspired Affine Geometric Framework for Interpretable Paraphrasing in Transformer Latent Spaces](https://arxiv.org/abs/2604.06086)
+- [Disentangling MLP Neuron Weights in Vocabulary Space](https://arxiv.org/abs/2604.06005)
+- [Spectral Edge Dynamics Reveal Functional Modes of Learning](https://arxiv.org/abs/2604.06256)
+- [SALLIE: Safeguarding Against Latent Language & Image Exploits](https://arxiv.org/abs/2604.06247)
 
 
 ### Dedicated Publication Threads
