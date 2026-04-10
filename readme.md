@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 9, 2026 at 01:49:38 AM UTC
+April 10, 2026 at 02:02:38 AM UTC
 
 
 ## Theorem
 
-## Papers (689)
+## Papers (691)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -727,6 +727,8 @@ April 9, 2026 at 01:49:38 AM UTC
 - [Disentangling MLP Neuron Weights in Vocabulary Space](https://arxiv.org/abs/2604.06005)
 - [Spectral Edge Dynamics Reveal Functional Modes of Learning](https://arxiv.org/abs/2604.06256)
 - [SALLIE: Safeguarding Against Latent Language & Image Exploits](https://arxiv.org/abs/2604.06247)
+- [MCLR: Improving Conditional Modeling via Inter-Class Likelihood-Ratio Maximization and Unifying Classifier-Free Guidance with Alignment Objectives](https://arxiv.org/abs/2603.22364)
+- [Towards Rapid Constitutive Model Discovery from Multi-Modal Data: Physics Augmented Finite Element Model Updating (paFEMU)](https://arxiv.org/abs/2604.07746)
 
 
 ### Dedicated Publication Threads
