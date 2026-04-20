@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 19, 2026 at 02:08:43 AM UTC
+April 20, 2026 at 02:09:06 AM UTC
 
 
 ## Theorem
 
-## Papers (703)
+## Papers (704)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -741,6 +741,7 @@ April 19, 2026 at 02:08:43 AM UTC
 - [CAMO: An Agentic Framework for Automated Causal Discovery from Micro Behaviors to Macro Emergence in LLM Agent Simulations](https://arxiv.org/abs/2604.14691)
 - [Mechanistic Decoding of Cognitive Constructs in LLMs](https://arxiv.org/abs/2604.14593)
 - [Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers](https://arxiv.org/abs/2604.14477)
+- [LLM Reasoning Is Latent, Not the Chain of Thought](https://arxiv.org/abs/2604.15726)
 
 
 ### Dedicated Publication Threads
