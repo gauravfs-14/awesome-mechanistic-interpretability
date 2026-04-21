@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 20, 2026 at 02:09:06 AM UTC
+April 21, 2026 at 02:05:01 AM UTC
 
 
 ## Theorem
 
-## Papers (704)
+## Papers (708)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -742,6 +742,10 @@ April 20, 2026 at 02:09:06 AM UTC
 - [Mechanistic Decoding of Cognitive Constructs in LLMs](https://arxiv.org/abs/2604.14593)
 - [Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers](https://arxiv.org/abs/2604.14477)
 - [LLM Reasoning Is Latent, Not the Chain of Thought](https://arxiv.org/abs/2604.15726)
+- [The Topological Dual of a Dataset: A Logic-to-Topology Encoding for AlphaGeometry-Style Data](https://arxiv.org/abs/2604.18050)
+- [Where is the Mind? Persona Vectors and LLM Individuation](https://arxiv.org/abs/2604.17031)
+- [Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy](https://arxiv.org/abs/2604.16851)
+- [Surgical Repair of Insecure Code Generation in LLMs](https://arxiv.org/abs/2604.16697)
 
 
 ### Dedicated Publication Threads
