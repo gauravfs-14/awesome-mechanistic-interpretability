@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 21, 2026 at 02:05:01 AM UTC
+April 22, 2026 at 02:03:52 AM UTC
 
 
 ## Theorem
 
-## Papers (708)
+## Papers (711)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -746,6 +746,9 @@ April 21, 2026 at 02:05:01 AM UTC
 - [Where is the Mind? Persona Vectors and LLM Individuation](https://arxiv.org/abs/2604.17031)
 - [Applications of deep generative models to DNA reaction kinetics and to cryogenic electron microscopy](https://arxiv.org/abs/2604.16851)
 - [Surgical Repair of Insecure Code Generation in LLMs](https://arxiv.org/abs/2604.16697)
+- [DLCM: a versatile multi-level solver for heterogeneous multicellular systems](https://arxiv.org/abs/2504.20565)
+- [Audio-DeepThinker: Progressive Reasoning-Aware Reinforcement Learning for High-Quality Chain-of-Thought Emergence in Audio Language Models](https://arxiv.org/abs/2604.18187)
+- [MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research](https://arxiv.org/abs/2604.18622)
 
 
 ### Dedicated Publication Threads
