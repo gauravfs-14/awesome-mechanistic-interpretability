@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 22, 2026 at 02:03:52 AM UTC
+April 23, 2026 at 02:07:02 AM UTC
 
 
 ## Theorem
 
-## Papers (711)
+## Papers (714)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -749,6 +749,9 @@ April 22, 2026 at 02:03:52 AM UTC
 - [DLCM: a versatile multi-level solver for heterogeneous multicellular systems](https://arxiv.org/abs/2504.20565)
 - [Audio-DeepThinker: Progressive Reasoning-Aware Reinforcement Learning for High-Quality Chain-of-Thought Emergence in Audio Language Models](https://arxiv.org/abs/2604.18187)
 - [MDAgent: A Multi-Agent Framework for End-to-End Molecular Dynamics Research](https://arxiv.org/abs/2604.18622)
+- [Mechanistic Interpretability Tool for AI Weather Models](https://arxiv.org/abs/2604.20467)
+- [Mechanistic Decoding of Cognitive Constructs in Large Language Models](https://arxiv.org/abs/2604.14593)
+- [Large Language Models Meet Biomedical Knowledge Graphs for Mechanistically Grounded Therapeutic Prioritization](https://arxiv.org/abs/2604.19815)
 
 
 ### Dedicated Publication Threads
