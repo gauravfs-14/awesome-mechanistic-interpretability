@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 26, 2026 at 02:11:30 AM UTC
+April 27, 2026 at 02:13:45 AM UTC
 
 
 ## Theorem
 
-## Papers (717)
+## Papers (719)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -755,6 +755,8 @@ April 26, 2026 at 02:11:30 AM UTC
 - [Directional Confusions Reveal Divergent Inductive Biases Through Rate-Distortion Geometry in Human and Machine Vision](https://arxiv.org/abs/2604.21909)
 - [Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning](https://arxiv.org/abs/2604.21870)
 - [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
+- [Beyond Land Surface Temperature: Explainable Spatial Machine Learning Reveals Urban Morphology Effects on Human-Centric Heat Stress](https://arxiv.org/abs/2604.22433)
+- [Preference Heads in Large Language Models: A Mechanistic Framework for Interpretable Personalization](https://arxiv.org/abs/2604.22345)
 
 
 ### Dedicated Publication Threads
