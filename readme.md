@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 27, 2026 at 02:13:45 AM UTC
+April 28, 2026 at 02:29:12 AM UTC
 
 
 ## Theorem
 
-## Papers (719)
+## Papers (726)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -757,6 +757,13 @@ April 27, 2026 at 02:13:45 AM UTC
 - [There Will Be a Scientific Theory of Deep Learning](https://arxiv.org/abs/2604.21691)
 - [Beyond Land Surface Temperature: Explainable Spatial Machine Learning Reveals Urban Morphology Effects on Human-Centric Heat Stress](https://arxiv.org/abs/2604.22433)
 - [Preference Heads in Large Language Models: A Mechanistic Framework for Interpretable Personalization](https://arxiv.org/abs/2604.22345)
+- [A systematic evaluation of vision-language models for observational astronomical reasoning tasks](https://arxiv.org/abs/2604.24589)
+- [Amplified Urban Climate Extremes from Global Warming-Urbanization Synergy: Toward a Physics-Informed Intelligence Paradigm](https://arxiv.org/abs/2604.24333)
+- [Differentiable Faithfulness Alignment for Cross-Model Circuit Transfer](https://arxiv.org/abs/2604.24302)
+- [Test of Time: Rethinking Temporal Signal of Benchmark Contamination](https://arxiv.org/abs/2509.00072)
+- [AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](https://arxiv.org/abs/2604.23719)
+- [VAMP-Net: An Interpretable Multi-Path Network of Genomic Permutation-Invariant Set Attention and Quality-Aware 1D-CNN for MTB Drug Resistance](https://arxiv.org/abs/2512.21786)
+- [DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining](https://arxiv.org/abs/2604.23054)
 
 
 ### Dedicated Publication Threads
