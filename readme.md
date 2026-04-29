@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 28, 2026 at 02:29:12 AM UTC
+April 29, 2026 at 02:29:40 AM UTC
 
 
 ## Theorem
 
-## Papers (726)
+## Papers (730)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -764,6 +764,10 @@ April 28, 2026 at 02:29:12 AM UTC
 - [AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models](https://arxiv.org/abs/2604.23719)
 - [VAMP-Net: An Interpretable Multi-Path Network of Genomic Permutation-Invariant Set Attention and Quality-Aware 1D-CNN for MTB Drug Resistance](https://arxiv.org/abs/2512.21786)
 - [DeepImagine: Learning Biomedical Reasoning via Successive Counterfactual Imagining](https://arxiv.org/abs/2604.23054)
+- [From Insight to Action: A Novel Framework for Interpretability-Guided Data Selection in Large Language Models](https://arxiv.org/abs/2604.25167)
+- [Learning biophysical models of gene regulation with probability flow matching](https://arxiv.org/abs/2604.25062)
+- [Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models](https://arxiv.org/abs/2604.25011)
+- [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)
 
 
 ### Dedicated Publication Threads
