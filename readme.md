@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-April 29, 2026 at 02:29:40 AM UTC
+April 30, 2026 at 02:30:14 AM UTC
 
 
 ## Theorem
 
-## Papers (730)
+## Papers (732)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -768,6 +768,8 @@ April 29, 2026 at 02:29:40 AM UTC
 - [Learning biophysical models of gene regulation with probability flow matching](https://arxiv.org/abs/2604.25062)
 - [Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models](https://arxiv.org/abs/2604.25011)
 - [Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate](https://arxiv.org/abs/2604.24881)
+- [Rare but Resilient: Dispersal diversity buffers species vulnerability](https://arxiv.org/abs/2604.26589)
+- [reward-lens: A Mechanistic Interpretability Library for Reward Models](https://arxiv.org/abs/2604.26130)
 
 
 ### Dedicated Publication Threads
