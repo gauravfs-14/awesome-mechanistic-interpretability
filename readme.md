@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 4, 2026 at 02:26:18 AM UTC
+May 5, 2026 at 02:14:29 AM UTC
 
 
 ## Theorem
 
-## Papers (735)
+## Papers (741)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -773,6 +773,12 @@ May 4, 2026 at 02:26:18 AM UTC
 - [Amplified Urban Climate Extremes from Global Warming-Urbanization Synergy: A Physics-Informed Intelligence Paradigm](https://arxiv.org/abs/2604.24333)
 - [From Local to Global to Mechanistic: An iERF-Centered Unified Framework for Interpreting Vision Models](https://arxiv.org/abs/2605.00474)
 - [Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models](https://arxiv.org/abs/2605.00123)
+- [Bucketing the Good Apples: A Method for Diagnosing and Improving Causal Abstraction](https://arxiv.org/abs/2605.02234)
+- [Automated Interpretability and Feature Discovery in Language Models with Agents](https://arxiv.org/abs/2605.01555)
+- [Constructing Interpretable Features from Compositional Neuron Groups](https://arxiv.org/abs/2506.10920)
+- [Barren Plateaus as Destructive Interference: A Diagnostic Framework and Implications for Structured Ansatzes](https://arxiv.org/abs/2605.01319)
+- [Sampled-data Robust Control of Electrically Stimulated Engineered Cell Factories](https://arxiv.org/abs/2605.01090)
+- [Modelling the electrophysiological interactions between human pluripotent cell-derived cardiomyocite grafts and host ventricular tissue](https://arxiv.org/abs/2605.01083)
 
 
 ### Dedicated Publication Threads
