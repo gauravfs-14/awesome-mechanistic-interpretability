@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 5, 2026 at 02:14:29 AM UTC
+May 6, 2026 at 02:24:53 AM UTC
 
 
 ## Theorem
 
-## Papers (741)
+## Papers (745)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -779,6 +779,10 @@ May 5, 2026 at 02:14:29 AM UTC
 - [Barren Plateaus as Destructive Interference: A Diagnostic Framework and Implications for Structured Ansatzes](https://arxiv.org/abs/2605.01319)
 - [Sampled-data Robust Control of Electrically Stimulated Engineered Cell Factories](https://arxiv.org/abs/2605.01090)
 - [Modelling the electrophysiological interactions between human pluripotent cell-derived cardiomyocite grafts and host ventricular tissue](https://arxiv.org/abs/2605.01083)
+- [Moral Sensitivity in LLMs: A Tiered Evaluation of Contextual Bias via Behavioral Profiling and Mechanistic Interpretability](https://arxiv.org/abs/2605.03217)
+- [Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation](https://arxiv.org/abs/2605.03058)
+- [How Language Models Process Negation](https://arxiv.org/abs/2605.03052)
+- [Attribution-Guided Pruning for Insight and Control: Circuit Discovery and Targeted Correction in Small-scale LLMs](https://arxiv.org/abs/2506.13727)
 
 
 ### Dedicated Publication Threads
