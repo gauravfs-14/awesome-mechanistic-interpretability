@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 6, 2026 at 02:24:53 AM UTC
+May 7, 2026 at 02:27:03 AM UTC
 
 
 ## Theorem
 
-## Papers (745)
+## Papers (747)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -783,6 +783,8 @@ May 6, 2026 at 02:24:53 AM UTC
 - [Neuron-Anchored Rule Extraction for Large Language Models via Contrastive Hierarchical Ablation](https://arxiv.org/abs/2605.03058)
 - [How Language Models Process Negation](https://arxiv.org/abs/2605.03052)
 - [Attribution-Guided Pruning for Insight and Control: Circuit Discovery and Targeted Correction in Small-scale LLMs](https://arxiv.org/abs/2506.13727)
+- [Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting](https://arxiv.org/abs/2605.05151)
+- [A process-based dynamic occupancy model to study range dynamics under non-equilibrium conditions](https://arxiv.org/abs/2605.04807)
 
 
 ### Dedicated Publication Threads
