@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 7, 2026 at 02:27:03 AM UTC
+May 8, 2026 at 02:34:39 AM UTC
 
 
 ## Theorem
 
-## Papers (747)
+## Papers (759)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -785,6 +785,18 @@ May 7, 2026 at 02:27:03 AM UTC
 - [Attribution-Guided Pruning for Insight and Control: Circuit Discovery and Targeted Correction in Small-scale LLMs](https://arxiv.org/abs/2506.13727)
 - [Superposition Is Not Necessary: A Mechanistic Interpretability Analysis of Transformer Representations for Time Series Forecasting](https://arxiv.org/abs/2605.05151)
 - [A process-based dynamic occupancy model to study range dynamics under non-equilibrium conditions](https://arxiv.org/abs/2605.04807)
+- [Crafting Reversible SFT Behaviors in Large Language Models](https://arxiv.org/abs/2605.06632)
+- [SoftSAE: Dynamic Top-K Selection for Adaptive Sparse Autoencoders](https://arxiv.org/abs/2605.06610)
+- [From Token Lists to Graph Motifs: Weisfeiler-Lehman Analysis of Sparse Autoencoder Features](https://arxiv.org/abs/2605.06494)
+- [Patch-Effect Graph Kernels for LLM Interpretability](https://arxiv.org/abs/2605.06480)
+- [SMolLM: Small Language Models Learn Small Molecular Grammar](https://arxiv.org/abs/2605.06322)
+- [Higher-order interactions in ecology can be hidden in plain sight](https://arxiv.org/abs/2605.06301)
+- [Playing the network backward: A Game Theoretic Attribution Framework](https://arxiv.org/abs/2605.06212)
+- [Time series saliency maps: explaining models across multiple domains](https://arxiv.org/abs/2505.13100)
+- [Navigating by Old Maps: The Pitfalls of Static Mechanistic Localization in LLM Post-Training](https://arxiv.org/abs/2605.06076)
+- [Resolving the bias-precision paradox with stochastic causal representation learning for personalized medicine](https://arxiv.org/abs/2605.05706)
+- [Temporal Functional Circuits: From Spline Plots to Faithful Explanations in KAN Forecasting](https://arxiv.org/abs/2605.05685)
+- [Negative Before Positive: Asymmetric Valence Processing in Large Language Models](https://arxiv.org/abs/2605.05653)
 
 
 ### Dedicated Publication Threads
