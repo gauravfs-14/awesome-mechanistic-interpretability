@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 10, 2026 at 02:30:36 AM UTC
+May 11, 2026 at 02:39:48 AM UTC
 
 
 ## Theorem
 
-## Papers (759)
+## Papers (772)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -797,6 +797,19 @@ May 10, 2026 at 02:30:36 AM UTC
 - [Resolving the bias-precision paradox with stochastic causal representation learning for personalized medicine](https://arxiv.org/abs/2605.05706)
 - [Temporal Functional Circuits: From Spline Plots to Faithful Explanations in KAN Forecasting](https://arxiv.org/abs/2605.05685)
 - [Negative Before Positive: Asymmetric Valence Processing in Large Language Models](https://arxiv.org/abs/2605.05653)
+- [Position: Mechanistic Interpretability Must Disclose Identification Assumptions for Causal Claims](https://arxiv.org/abs/2605.08012)
+- [Jagged AI in Scientific Peer Review: Evidence from POMP Data Analysis](https://arxiv.org/abs/2605.07855)
+- [Distributional simplicity bias and effective convexity in Energy Based Models](https://arxiv.org/abs/2605.07844)
+- [PPI-Net connects molecular protein interactions to functional processes in disease](https://arxiv.org/abs/2605.07838)
+- [Supervised sparse auto-encoders for interpretable and compositional representations](https://arxiv.org/abs/2602.00924)
+- [Mean-Pooled Cosine Similarity is Not Length-Invariant: Theory and Cross-Domain Evidence for a Length-Invariant Alternative](https://arxiv.org/abs/2605.07345)
+- [Activation Differences Reveal Backdoors: A Comparison of SAE Architectures](https://arxiv.org/abs/2605.07324)
+- [Generative Modeling with Flux Matching](https://arxiv.org/abs/2605.07319)
+- [Emergent Manifold Separability during Reasoning in Large Language Models](https://arxiv.org/abs/2602.20338)
+- [Essential Role of Extrinsic Noise in Models of E. coli Division Control](https://arxiv.org/abs/2605.07007)
+- [PLOT: Progressive Localization via Optimal Transport in Neural Causal Abstraction](https://arxiv.org/abs/2605.06979)
+- [Beyond the Black Box: Interpretability of Agentic AI Tool Use](https://arxiv.org/abs/2605.06890)
+- [The Linear Centroids Hypothesis: Features as Directions Learned by Local Experts](https://arxiv.org/abs/2604.11962)
 
 
 ### Dedicated Publication Threads
