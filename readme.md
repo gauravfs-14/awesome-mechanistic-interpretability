@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 11, 2026 at 02:39:48 AM UTC
+May 12, 2026 at 02:32:51 AM UTC
 
 
 ## Theorem
 
-## Papers (772)
+## Papers (792)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -810,6 +810,26 @@ May 11, 2026 at 02:39:48 AM UTC
 - [PLOT: Progressive Localization via Optimal Transport in Neural Causal Abstraction](https://arxiv.org/abs/2605.06979)
 - [Beyond the Black Box: Interpretability of Agentic AI Tool Use](https://arxiv.org/abs/2605.06890)
 - [The Linear Centroids Hypothesis: Features as Directions Learned by Local Experts](https://arxiv.org/abs/2604.11962)
+- [Estimating Consensus Epidemic Trajectories via a Constrained Power Fréchet Mean with Functional Registration](https://arxiv.org/abs/2605.10069)
+- [From Syntax to Semantics: Unveiling the Emergence of Chirality in SMILES Translation Models](https://arxiv.org/abs/2605.09949)
+- [Dissecting Jet-Tagger Through Mechanistic Interpretability](https://arxiv.org/abs/2605.09881)
+- [Hidden Error Awareness in Chain-of-Thought Reasoning: The Signal Is Diagnostic, Not Causal](https://arxiv.org/abs/2605.09502)
+- [The Wittgensteinian Representation Hypothesis: Is Language the Attractor of Multimodal Convergence?](https://arxiv.org/abs/2605.09352)
+- [SMIXAE: Towards Unsupervised Manifold Discovery in Language Models](https://arxiv.org/abs/2605.09224)
+- [Data-driven Circuit Discovery for Interpretability of Language Models](https://arxiv.org/abs/2605.09129)
+- [Investigating Anisotropy in Visual Grounding under Controlled Counterfactual Perturbations](https://arxiv.org/abs/2605.09090)
+- [From Mechanistic to Compositional Interpretability](https://arxiv.org/abs/2605.08934)
+- [Why Do Aligned LLMs Remain Jailbreakable: Refusal-Escape Directions, Operator-Level Sources, and Safety-Utility Trade-off](https://arxiv.org/abs/2605.08878)
+- [Architecture, Not Scale: Circuit Localization in Large Language Models](https://arxiv.org/abs/2605.08853)
+- [Causal Dimensionality of Transformer Representations: Measurement, Scaling, and Layer Structure](https://arxiv.org/abs/2605.08740)
+- [Hidden Heroes and Gradient Bloats: Layer-Wise Redundancy Inverts Attribution in Transformers](https://arxiv.org/abs/2602.01442)
+- [Transformers Can Implement Preconditioned Richardson Iteration for In-Context Gaussian Kernel Regression](https://arxiv.org/abs/2605.08475)
+- [Hiding in Plain Sight: Detectability-Aware Antidistillation of Reasoning Models](https://arxiv.org/abs/2604.23238)
+- [Belief or Circuitry? Causal Evidence for In-Context Graph Learning](https://arxiv.org/abs/2605.08405)
+- [Machine learning the non-radiative decay modes in photochemical processes](https://arxiv.org/abs/2605.08381)
+- [How Much Do Circuits Tell Us? Measuring the Consistency and Specificity of Language Model Circuits](https://arxiv.org/abs/2605.08348)
+- [LLM Advertisement based on Neuron Auctions](https://arxiv.org/abs/2605.08326)
+- [What Cohort INRs Encode and Where to Freeze Them](https://arxiv.org/abs/2605.08298)
 
 
 ### Dedicated Publication Threads
