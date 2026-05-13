@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 12, 2026 at 02:32:51 AM UTC
+May 13, 2026 at 02:39:21 AM UTC
 
 
 ## Theorem
 
-## Papers (792)
+## Papers (798)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -830,6 +830,12 @@ May 12, 2026 at 02:32:51 AM UTC
 - [How Much Do Circuits Tell Us? Measuring the Consistency and Specificity of Language Model Circuits](https://arxiv.org/abs/2605.08348)
 - [LLM Advertisement based on Neuron Auctions](https://arxiv.org/abs/2605.08326)
 - [What Cohort INRs Encode and Where to Freeze Them](https://arxiv.org/abs/2605.08298)
+- [GKnow: Measuring the Entanglement of Gender Bias and Factual Gender](https://arxiv.org/abs/2605.12299)
+- [Mechanistic Interpretability of ASR models using Sparse Autoencoders](https://arxiv.org/abs/2605.12225)
+- [Qwen-Scope: Turning Sparse Features into Development Tools for Large Language Models](https://arxiv.org/abs/2605.11887)
+- [Native Explainability for Bayesian Confidence Propagation Neural Networks: A Framework for Trusted Brain-Like AI](https://arxiv.org/abs/2605.11595)
+- [bViT: Investigating Single-Block Recurrence in Vision Transformers for Image Recognition](https://arxiv.org/abs/2605.10661)
+- [The Open-Box Fallacy: Why AI Deployment Needs a Calibrated Verification Regime](https://arxiv.org/abs/2605.10601)
 
 
 ### Dedicated Publication Threads
