@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 13, 2026 at 02:39:21 AM UTC
+May 14, 2026 at 02:40:06 AM UTC
 
 
 ## Theorem
 
-## Papers (798)
+## Papers (802)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -836,6 +836,10 @@ May 13, 2026 at 02:39:21 AM UTC
 - [Native Explainability for Bayesian Confidence Propagation Neural Networks: A Framework for Trusted Brain-Like AI](https://arxiv.org/abs/2605.11595)
 - [bViT: Investigating Single-Block Recurrence in Vision Transformers for Image Recognition](https://arxiv.org/abs/2605.10661)
 - [The Open-Box Fallacy: Why AI Deployment Needs a Calibrated Verification Regime](https://arxiv.org/abs/2605.10601)
+- [Deep Learning as Neural Low-Degree Filtering: A Spectral Theory of Hierarchical Feature Learning](https://arxiv.org/abs/2605.13612)
+- [Dual-Pathway Circuits of Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2605.13156)
+- [All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](https://arxiv.org/abs/2605.12671)
+- [OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting](https://arxiv.org/abs/2605.12639)
 
 
 ### Dedicated Publication Threads
