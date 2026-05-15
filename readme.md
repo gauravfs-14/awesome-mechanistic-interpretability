@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 14, 2026 at 02:40:06 AM UTC
+May 15, 2026 at 02:40:27 AM UTC
 
 
 ## Theorem
 
-## Papers (802)
+## Papers (811)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -840,6 +840,15 @@ May 14, 2026 at 02:40:06 AM UTC
 - [Dual-Pathway Circuits of Object Hallucination in Vision-Language Models](https://arxiv.org/abs/2605.13156)
 - [All Circuits Lead to Rome: Rethinking Functional Anisotropy in Circuit and Sheaf Discovery for LLMs](https://arxiv.org/abs/2605.12671)
 - [OceanCBM: A Concept Bottleneck Model for Mechanistic Interpretability in Ocean Forecasting](https://arxiv.org/abs/2605.12639)
+- [When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability](https://arxiv.org/abs/2605.15183)
+- [Understanding Imbalanced Forgetting in Rehearsal-Based Class-Incremental Learning](https://arxiv.org/abs/2605.14785)
+- [The Rate-Distortion-Polysemanticity Tradeoff in SAEs](https://arxiv.org/abs/2605.14694)
+- [Exploring Geographic Relative Space in Large Language Models through Activation Patching](https://arxiv.org/abs/2605.14535)
+- [Exemplar Partitioning for Mechanistic Interpretability](https://arxiv.org/abs/2605.14347)
+- [Finding Interpretable Prompt-Specific Circuits in Language Models](https://arxiv.org/abs/2602.13483)
+- [Rethinking Layer Relevance in Large Language Models Beyond Cosine Similarity](https://arxiv.org/abs/2605.14075)
+- [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](https://arxiv.org/abs/2605.13930)
+- [XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles](https://arxiv.org/abs/2605.13922)
 
 
 ### Dedicated Publication Threads
