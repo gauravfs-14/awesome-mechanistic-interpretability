@@ -849,6 +849,8 @@ May 17, 2026 at 02:38:00 AM UTC
 - [Rethinking Layer Relevance in Large Language Models Beyond Cosine Similarity](https://arxiv.org/abs/2605.14075)
 - [Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](https://arxiv.org/abs/2605.13930)
 - [XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles](https://arxiv.org/abs/2605.13922)
+- [Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models](https://arxiv.org/abs/2603.19233)
+- [Mechanistic interpretability for steering vision-language-action models](https://arxiv.org/abs/2509.00328)
 
 
 ### Dedicated Publication Threads
@@ -862,6 +864,7 @@ May 17, 2026 at 02:38:00 AM UTC
 ### Written Tutorials
 - [Mechanistic Interpretability for LLMs, explained](https://seantrott.substack.com/p/mechanistic-interpretability-for) by [The CounterFactual](https://seantrott.substack.com)
 - [Zoom In: An Introduction to Circuits (Bilingual Tutorial)](https://github.com/Jonny-English/circuits-zoom-in) - Bilingual (Chinese/English) hands-on Jupyter notebook tutorial reproducing Olah et al. 2020's circuits research, covering feature visualization and mechanistic interpretability in CNNs.
+- [ARENA_3.0](https://github.com/callummcdougall/ARENA_3.0) - Mechanistic interpretability course covering different aspect of the field: transformer interpretability, LLM evaluation and alignment science, which includes modern more recent mechanistic interpretability research such as "persona vectors".
 
 ### Video Tutorials
 
