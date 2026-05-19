@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 18, 2026 at 02:48:04 AM UTC
+May 19, 2026 at 02:45:01 AM UTC
 
 
 ## Theorem
 
-## Papers (813)
+## Papers (822)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -851,6 +851,15 @@ May 18, 2026 at 02:48:04 AM UTC
 - [XAI and Statistical Analysis for Reliable Intrusion Detection in the UAVIDS-2025 Dataset: From Tree to Hybrid and Tabular DNN Ensembles](https://arxiv.org/abs/2605.13922)
 - [Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models](https://arxiv.org/abs/2605.15961)
 - [Multi-Turn Neural Transparency: Surfacing Neural Activations Improves User Calibration to LLM Behavioral Drift](https://arxiv.org/abs/2605.15455)
+- [Babel: Jailbreaking Safety Attention via Obfuscation Distribution Optimized Sampling](https://arxiv.org/abs/2605.17971)
+- [StructLens: A Structural Lens for Language Models via Maximum Spanning Trees](https://arxiv.org/abs/2603.03328)
+- [Toy Combinatorial Interpretability Models Reveal Lottery Tickets in Early Feature Space](https://arxiv.org/abs/2605.17704)
+- [A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle](https://arxiv.org/abs/2605.17504)
+- [Beyond Linear Superposition: Discovering Climate Features in AI Weather Models with KAN-SAE](https://arxiv.org/abs/2605.17493)
+- [Event-Grounded Sparse Autoencoders for Vision-Language-Action Policies](https://arxiv.org/abs/2605.17204)
+- [HYVINT: Intensity-Driven Hypergraph Generation with Variational Representations](https://arxiv.org/abs/2605.16836)
+- [Sensitivity analysis-guided model reduction of a mathematical model of pembrolizumab therapy for de novo metastatic MSI-H/dMMR colorectal cancer](https://arxiv.org/abs/2505.18920)
+- [Mechanistically Interpretable Neural Encoding Reveals Fine-Grained Functional Selectivity in Human Visual Cortex](https://arxiv.org/abs/2605.16468)
 
 
 ### Dedicated Publication Threads
