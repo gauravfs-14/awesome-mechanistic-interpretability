@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 19, 2026 at 02:45:01 AM UTC
+May 20, 2026 at 02:45:49 AM UTC
 
 
 ## Theorem
 
-## Papers (822)
+## Papers (827)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -860,6 +860,11 @@ May 19, 2026 at 02:45:01 AM UTC
 - [HYVINT: Intensity-Driven Hypergraph Generation with Variational Representations](https://arxiv.org/abs/2605.16836)
 - [Sensitivity analysis-guided model reduction of a mathematical model of pembrolizumab therapy for de novo metastatic MSI-H/dMMR colorectal cancer](https://arxiv.org/abs/2505.18920)
 - [Mechanistically Interpretable Neural Encoding Reveals Fine-Grained Functional Selectivity in Human Visual Cortex](https://arxiv.org/abs/2605.16468)
+- [Where Does Authorship Signal Emerge in Encoder-Based Language Models?](https://arxiv.org/abs/2605.19908)
+- [Mechanisms of Object Localization in Vision-Language Models](https://arxiv.org/abs/2605.19792)
+- [Symmetry Matters: Auditing and Symmetrizing 3D Generative Models](https://arxiv.org/abs/2512.18953)
+- [Transformers Linearly Represent Highly Structured World Models](https://arxiv.org/abs/2605.18847)
+- [Lost and Found in Translation: Variational Diagnostics for Neural Codebook Channels](https://arxiv.org/abs/2605.18846)
 
 
 ### Dedicated Publication Threads
