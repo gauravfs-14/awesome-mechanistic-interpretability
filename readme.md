@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 20, 2026 at 02:45:49 AM UTC
+May 21, 2026 at 02:48:38 AM UTC
 
 
 ## Theorem
 
-## Papers (827)
+## Papers (835)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -865,6 +865,14 @@ May 20, 2026 at 02:45:49 AM UTC
 - [Symmetry Matters: Auditing and Symmetrizing 3D Generative Models](https://arxiv.org/abs/2512.18953)
 - [Transformers Linearly Represent Highly Structured World Models](https://arxiv.org/abs/2605.18847)
 - [Lost and Found in Translation: Variational Diagnostics for Neural Codebook Channels](https://arxiv.org/abs/2605.18846)
+- [Post-Hoc Understanding of Metaphor Processing in Decoder-Only Language Models via Conditional Scale Entropy](https://arxiv.org/abs/2605.21391)
+- [From Circuit Evidence to Mechanistic Theory: An Inductive Logic Approach](https://arxiv.org/abs/2605.21303)
+- [A Sharper Picture of Generalization in Transformers](https://arxiv.org/abs/2605.20988)
+- [Multi-Modal Machine Learning for Population- and Subject-Specific lncRNA-Type 2 Diabetes Association Analysis](https://arxiv.org/abs/2605.20747)
+- [Mechanistic Interpretability for Learning Assurance of a Vision-Based Landing System](https://arxiv.org/abs/2605.20607)
+- [Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs](https://arxiv.org/abs/2605.20410)
+- [Mechanisms of Misgeneralization in Physical Sequence Modeling](https://arxiv.org/abs/2605.20299)
+- [LEAP: A closed-loop framework for perovskite precursor additive discovery](https://arxiv.org/abs/2605.20242)
 
 
 ### Dedicated Publication Threads
