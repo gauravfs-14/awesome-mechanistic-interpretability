@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 21, 2026 at 02:48:38 AM UTC
+May 22, 2026 at 02:49:06 AM UTC
 
 
 ## Theorem
 
-## Papers (835)
+## Papers (840)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -873,6 +873,11 @@ May 21, 2026 at 02:48:38 AM UTC
 - [Mechanics of Bias and Reasoning: Interpreting the Impact of Chain-of-Thought Prompting on Gender Bias in LLMs](https://arxiv.org/abs/2605.20410)
 - [Mechanisms of Misgeneralization in Physical Sequence Modeling](https://arxiv.org/abs/2605.20299)
 - [LEAP: A closed-loop framework for perovskite precursor additive discovery](https://arxiv.org/abs/2605.20242)
+- [Reading Task Failure Off the Activations: A Sparse-Feature Audit of GPT-2 Small on Indirect Object Identification](https://arxiv.org/abs/2605.22719)
+- [Geometry-Adaptive Explainer for Faithful Dictionary-Based Interpretability under Distribution Shift](https://arxiv.org/abs/2605.21849)
+- [Drivers of Transient Dynamics and Persistence in Dengue: Insights from Sensitivity and Stochastic Modeling](https://arxiv.org/abs/2605.21787)
+- [A Mechanistic Explanatory Strategy for XAI](https://arxiv.org/abs/2411.01332)
+- [Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery](https://arxiv.org/abs/2605.21522)
 
 
 ### Dedicated Publication Threads
