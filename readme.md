@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 24, 2026 at 02:45:22 AM UTC
+May 25, 2026 at 02:54:16 AM UTC
 
 
 ## Theorem
 
-## Papers (840)
+## Papers (845)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -878,6 +878,11 @@ May 24, 2026 at 02:45:22 AM UTC
 - [Drivers of Transient Dynamics and Persistence in Dengue: Insights from Sensitivity and Stochastic Modeling](https://arxiv.org/abs/2605.21787)
 - [A Mechanistic Explanatory Strategy for XAI](https://arxiv.org/abs/2411.01332)
 - [Protein Thoughts: Interpretable Reasoning with Tree of Thoughts and Embedding-Space Flow Matching for Protein-Protein Interaction Discovery](https://arxiv.org/abs/2605.21522)
+- [Every Component is a Lookup: Token Attribution and Composition from a Single Decomposition](https://arxiv.org/abs/2605.23393)
+- [Multilingual Steering by Design: Multilingual Sparse Autoencoders and Principled Layer Selection](https://arxiv.org/abs/2605.23036)
+- [Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography](https://arxiv.org/abs/2605.23035)
+- [Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902)
+- [From Residuals to Reasons: LLM-Guided Mechanism Inference from Tabular Data](https://arxiv.org/abs/2605.22897)
 
 
 ### Dedicated Publication Threads
