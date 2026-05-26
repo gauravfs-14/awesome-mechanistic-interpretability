@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 25, 2026 at 02:54:16 AM UTC
+May 26, 2026 at 02:42:08 AM UTC
 
 
 ## Theorem
 
-## Papers (845)
+## Papers (854)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -883,6 +883,15 @@ May 25, 2026 at 02:54:16 AM UTC
 - [Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography](https://arxiv.org/abs/2605.23035)
 - [Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models](https://arxiv.org/abs/2605.22902)
 - [From Residuals to Reasons: LLM-Guided Mechanism Inference from Tabular Data](https://arxiv.org/abs/2605.22897)
+- [Detecting Unfaithful Chain-of-Thought via Circuit-Guided Internal-External Discrepancy](https://arxiv.org/abs/2605.25603)
+- [Is Inference Mediated by Distinct Semantic Structures in LLMs? A Mechanistic Interpretation](https://arxiv.org/abs/2605.25520)
+- [Continuous-Depth Field Theory for Transformer Patching and Mechanistic Interpretability](https://arxiv.org/abs/2605.25225)
+- [Explainable Retinal Imaging for Prediction of Multi-Organ Dysfunction in Type 2 Diabetes](https://arxiv.org/abs/2605.24912)
+- [The Concept Allocation Zone: Tracking How Concepts Form Across Transformer Depth](https://arxiv.org/abs/2605.24856)
+- [Investigating the Effect of Network Pruning on Performance and Interpretability](https://arxiv.org/abs/2409.19727)
+- [Polymorphism Is Rotation: Operational Mechanistic Interpretability from a Two-Layer Transformer to Pythia-70m](https://arxiv.org/abs/2605.24577)
+- [Learning dynamical systems with biochemically informed neural ordinary differential equations](https://arxiv.org/abs/2605.24170)
+- [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](https://arxiv.org/abs/2605.24033)
 
 
 ### Dedicated Publication Threads
