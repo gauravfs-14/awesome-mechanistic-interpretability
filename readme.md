@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 26, 2026 at 02:42:08 AM UTC
+May 27, 2026 at 02:52:53 AM UTC
 
 
 ## Theorem
 
-## Papers (854)
+## Papers (860)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -892,6 +892,12 @@ May 26, 2026 at 02:42:08 AM UTC
 - [Polymorphism Is Rotation: Operational Mechanistic Interpretability from a Two-Layer Transformer to Pythia-70m](https://arxiv.org/abs/2605.24577)
 - [Learning dynamical systems with biochemically informed neural ordinary differential equations](https://arxiv.org/abs/2605.24170)
 - [Towards Verifiable Transformers: Solver-Checkable Circuit Explanations](https://arxiv.org/abs/2605.24033)
+- [Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders](https://arxiv.org/abs/2605.27354)
+- [Can Broad Biomedical Knowledge be Contextualized into Scenario-Grounded Propositions?](https://arxiv.org/abs/2605.27082)
+- [Emergent Causal-Geometric Dynamics Across Depth in Large Language Models](https://arxiv.org/abs/2602.04931)
+- [SL-BiLEM: Structured Learnable Behavior-in-the-Loop Epidemic Modeling for Forecasting and Policy Evaluation](https://arxiv.org/abs/2605.26704)
+- [CART Random Forests as Sequential Allocation over Random Opportunity Sets: A Stochastic-Control Theory of Ensemble Risk](https://arxiv.org/abs/2605.26675)
+- [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2605.26343)
 
 
 ### Dedicated Publication Threads
