@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 27, 2026 at 02:52:53 AM UTC
+May 28, 2026 at 02:40:38 AM UTC
 
 
 ## Theorem
 
-## Papers (860)
+## Papers (867)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -898,6 +898,13 @@ May 27, 2026 at 02:52:53 AM UTC
 - [SL-BiLEM: Structured Learnable Behavior-in-the-Loop Epidemic Modeling for Forecasting and Policy Evaluation](https://arxiv.org/abs/2605.26704)
 - [CART Random Forests as Sequential Allocation over Random Opportunity Sets: A Stochastic-Control Theory of Ensemble Risk](https://arxiv.org/abs/2605.26675)
 - [MechRL: Reinforcement Learning Agents Perform Circuit Discovery for Mechanistic Interpretability](https://arxiv.org/abs/2605.26343)
+- [Stance Detection in Prediction Markets: Addressing Imbalanced Trader Commentary via Counterfactual Augmentation and Market Context](https://arxiv.org/abs/2605.28745)
+- [Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates](https://arxiv.org/abs/2605.28651)
+- [Cultural Binding Heads in Language Models](https://arxiv.org/abs/2605.28543)
+- [Mitigating Adaptive Attacks against Reasoning Models with Activation Consistency Training](https://arxiv.org/abs/2605.28467)
+- [Mechanistically Interpreting the Role of Sample Difficulty in RLVR for LLMs](https://arxiv.org/abs/2605.28388)
+- [Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models](https://arxiv.org/abs/2605.27997)
+- [The Grammar of Transformers: A Systematic Review of Interpretability Research on Syntactic Knowledge in Language Models](https://arxiv.org/abs/2601.19926)
 
 
 ### Dedicated Publication Threads
