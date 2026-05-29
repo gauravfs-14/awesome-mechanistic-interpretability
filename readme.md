@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 28, 2026 at 02:40:38 AM UTC
+May 29, 2026 at 02:44:00 AM UTC
 
 
 ## Theorem
 
-## Papers (867)
+## Papers (873)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -905,6 +905,12 @@ May 28, 2026 at 02:40:38 AM UTC
 - [Mechanistically Interpreting the Role of Sample Difficulty in RLVR for LLMs](https://arxiv.org/abs/2605.28388)
 - [Where Does Toxicity Live? Mechanistic Localization and Targeted Suppression in Language Models](https://arxiv.org/abs/2605.27997)
 - [The Grammar of Transformers: A Systematic Review of Interpretability Research on Syntactic Knowledge in Language Models](https://arxiv.org/abs/2601.19926)
+- [What drives performance in molecular MPNNs? An operator-level factorial benchmark](https://arxiv.org/abs/2605.30195)
+- [Dissecting the Black Box: Circuit-Level Analysis of LLM Vulnerability Detection](https://arxiv.org/abs/2605.29901)
+- [Xetrieval: Mechanistically Explaining Dense Retrieval](https://arxiv.org/abs/2605.29507)
+- [The Curse of Helpfulness: Inverse Scaling Law in Robustness to Distractor Instructions via DistractionIF](https://arxiv.org/abs/2605.29491)
+- [Understanding Fact Recall in Language Models: Why Two-Stage Training Encourages Memorization but Mixed Training Teaches Knowledge](https://arxiv.org/abs/2505.16178)
+- [Feature Geometry of LoRA Adapters: A Sparse Autoencoder Analysis of Representational Divergence in Fine-Tuned Language Models](https://arxiv.org/abs/2605.28896)
 
 
 ### Dedicated Publication Threads
