@@ -32,12 +32,12 @@ Whether you are investigating the circuits behind in-context learning, decoding 
 - [Jul 24, 2025]: Preprint is now available in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5345552).
 
 ## Last Updated
-May 31, 2026 at 02:54:56 AM UTC
+June 1, 2026 at 03:30:56 AM UTC
 
 
 ## Theorem
 
-## Papers (873)
+## Papers (880)
 - [Mechanistic Decomposition of Sentence Representations](https://arxiv.org/abs/2506.04373)
 - [Domain Switching on the Pareto Front: Multi-Objective Deep Kernel Learning in Automated Piezoresponse Force Microscopy](https://arxiv.org/abs/2506.08073)
 - [Rethinking Crowd-Sourced Evaluation of Neuron Explanations](https://arxiv.org/abs/2506.07985)
@@ -911,6 +911,13 @@ May 31, 2026 at 02:54:56 AM UTC
 - [The Curse of Helpfulness: Inverse Scaling Law in Robustness to Distractor Instructions via DistractionIF](https://arxiv.org/abs/2605.29491)
 - [Understanding Fact Recall in Language Models: Why Two-Stage Training Encourages Memorization but Mixed Training Teaches Knowledge](https://arxiv.org/abs/2505.16178)
 - [Feature Geometry of LoRA Adapters: A Sparse Autoencoder Analysis of Representational Divergence in Fine-Tuned Language Models](https://arxiv.org/abs/2605.28896)
+- [Positional versus Symbolic Attention Heads: Learning Dynamics, RoPE Geometry, and Length Generalization](https://arxiv.org/abs/2605.31558)
+- [Latent Space Disentanglement via Activation Steering for Interpretable Attribute Control in Symbolic Music Generation](https://arxiv.org/abs/2605.31295)
+- [TabCausal: Pretraining Across Causal Environments for Tabular Causal Discovery](https://arxiv.org/abs/2605.31156)
+- [CellBRIDGE: Learning Cellular Trajectories via Interaction-Aware Alignment](https://arxiv.org/abs/2605.30635)
+- [A Bayesian Framework for Uncertainty-Aware Estimation of Main Pulmonary Artery Velocity Profiles from Phase-Contrast MRI](https://arxiv.org/abs/2605.30623)
+- [Ubiquity of Emergent Hebbian Dynamics in Regularized Learning](https://arxiv.org/abs/2505.18069)
+- [Discovering a Zeta Map Algorithm on Dyck Paths via Mechanistic Interpretability](https://arxiv.org/abs/2605.30482)
 
 
 ### Dedicated Publication Threads
